@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Smrt Krále Šumavy</text>
+  </docTitle>
+  <docAuthor>
+    <text>Martin Sichinger</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>KAPITOLA PRVNÍ Pondělí 30. srpna</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_007.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>KAPITOLA DRUHÁ Pondělí 30. srpna</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_008.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>KAPITOLA TŘETÍ Pondělí 30. srpna</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_009.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>KAPITOLA ČTVRTÁ Úterý 31. srpna</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_010.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>KAPITOLA PÁTÁ Středa 1. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_011.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>KAPITOLA ŠESTÁ Středa 1. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_012.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>KAPITOLA SEDMÁ Středa 1. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_013.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>KAPITOLA OSMÁ Středa 1. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_014.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>KAPITOLA DEVÁTÁ Čtvrtek 2. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_015.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>KAPITOLA DESÁTÁ Čtvrtek 2. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_016.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>KAPITOLA JEDENÁCTÁ Čtvrtek 2. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_017.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>KAPITOLA DVANÁCTÁ Čtvrtek 2. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_018.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>KAPITOLA TŘINÁCTÁ Pátek 3. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_019.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>KAPITOLA ČTRNÁCTÁ Pátek 3. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_020.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>KAPITOLA PATNÁCTÁ Pátek 3. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_021.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>KAPITOLA ŠESTNÁCTÁ Sobota 4. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_022.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>KAPITOLA SEDMNÁCTÁ Sobota 4. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_023.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>KAPITOLA OSMNÁCTÁ Sobota 4. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_024.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>KAPITOLA DEVATENÁCTÁ Sobota 4. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_025.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>KAPITOLA DVACÁTÁ Neděle 5. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_026.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>KAPITOLA DVACÁTÁ PRVNÍ Neděle 5. září</text>
+      </navLabel>
+      <content src="Text/smrt_krale_sumavy_027.xhtml#_idParaDest-21"/>
+    </navPoint>
+  </navMap>
+</ncx>
