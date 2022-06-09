@@ -3,8 +3,6 @@ title: "KAPITOLA SEDMNÁCTÁ Sobota 4\\.\_září"
 contentType: prose
 ---
 
-  
-
 Jít po chodníku bylo lepší než přeskakovat ulámané větve. Navíc nehrozilo, že nás budou prohledávat hledači pokladů. Starší paní, která sbírala prádlo ve svahu před rodinným domkem, na nás s úsměvem zavolala „Grüß Gott!“ a mě napadlo, že by nás snad u sebe v nejhorším nechala přespat.
 
 Vystoupali jsme ke kostelu, jehož věž se tyčila proti odpolednímu nebi. Andělé vysekaní v našedlém kameni si nás udiveně prohlíželi. Těžké dveře seděly ukotveny ve vchodu a na zdi visela mosazná deska s nápisem:
@@ -21,23 +19,23 @@ U vchodu visel Ježíš Kristus tak zlatý, jako by byl synem neznámé zlaté 
 
 Podle fotky z internetu měl být Kiliánův hrob dole u zdi. Cestou jsem si prohlížel jména na náhrobních deskách: _Familie Wagner_, _Gustav Lorenz_, _Eduard Sommer_, _Johann Binder._ Dokonce jsem spatřil i hrob se svým vlastním jménem:
 
-_Thomas Jungwirth 1883–1917_
+__Thomas Jungwirth 1883–1917__
 
 Můj jmenovec se dožil třiceti čtyř let – možná padl ve válce, nebo umřel jen tak, válka neválka.
 
 Kiliánův hrob stál ve čtvrté řadě odzdola. Šedivá mramorová deska byla v polovině rozdělená křížem. Na pravé straně se leskla jména rodiny Nowotných – Josef, Petronill a znovu Josef – a na levé pod nápisem
 
-_Hier ruhen in Frieden_[3](./resources/undefined)
+__Hier ruhen in Frieden_[3](./resources/undefined)_
 
 stálo:
 
-_Kilian Nowotny_
+__Kilian Nowotny__
 
-_\*1. 12. 1905 † 12. 3. 1977_
+__\*1. 12. 1905 † 12. 3. 1977__
 
-_Theresia Nowotny_
+__Theresia Nowotny__
 
-_\*26. 8. 1908 † 28. 3. 2000_
+__\*26. 8. 1908 † 28. 3. 2000__
 
 Ve váze kvetly bílé květiny. Hlína na hrobě zarůstala nazelenalým mechem. Zeď, na kterou Kilián vyhlížel, obrůstal břečťan. Nad Kiliánovým hrobem se tyčily dva obrovské smrky, stromy, které za svého života vídal v lesích u Kaltenbachu.
 
@@ -119,7 +117,7 @@ Najít dům Krále Šumavy nám v Röhrnbachu trvalo jenom čtyři minuty!
 
 Kiliánův dům byl obložený tmavým dřevem, téměř jako dům, který míval na Nových Hutích. Nad ohromnými vraty stál nápis:
 
-_Nowotny Schreinerei und Tischerei_
+__Nowotny Schreinerei und Tischerei__
 
 „Co to je _Schreinerei und Tischerei?_“
 
@@ -159,7 +157,7 @@ Vydali jsme se zase zpátky do svahu. Ochladilo se a na západě se začaly sb�
 
 Fara byl nízký rodinný dům asi sto metrů od hřbitova. Na zvonku stálo:
 
-_Röhrnbach Pfarre. Pfarrer Markus Krell._
+__Röhrnbach Pfarre. Pfarrer Markus Krell.__
 
 Tohle je naše poslední šance, pomyslel jsem si a zazvonil.
 
@@ -185,14 +183,14 @@ Potom mluvítko znovu zapraskalo. Ale tentokrát se ozval starší mužský hlas
 
 * * *
 
-[3](./resources/undefined) Zde odpočívají v pokoji. Pozn. red.
+_[3](./resources/undefined) Zde odpočívají v pokoji. _Pozn. red.__
 
-[4](./resources/undefined) Promiňte, my jsme z Kaltenbachu na Šumavě. Pozn. red.
+_[4](./resources/undefined) Promiňte, my jsme z Kaltenbachu na Šumavě. _Pozn. red.__
 
-[5](./resources/undefined) Hledáme rodinu Nowotných. Pozn. red.
+_[5](./resources/undefined) Hledáme rodinu Nowotných. _Pozn. red.__
 
-[6](./resources/undefined) Tam žije jeho dcera. Pozn. red.
+_[6](./resources/undefined) Tam žije jeho dcera. _Pozn. red.__
 
-[7](./resources/undefined) Co si přejete? Pozn. red.
+_[7](./resources/undefined) Co si přejete? _Pozn. red.__
 
-[8](./resources/undefined) Dobrý den, my jsem z Kaltenbachu a hledáme někoho z rodiny Nowotných. Pozn. red.
+_[8](./resources/undefined) Dobrý den, my jsem z Kaltenbachu a hledáme někoho z rodiny Nowotných. _Pozn. red.__

@@ -3,8 +3,6 @@ title: "KAPITOLA PATNÁCTÁ Pátek 3\\.\_září"
 contentType: prose
 ---
 
-  
-
 Budík ukazoval půl sedmé.
 
 Bolela mě kolena, stehna a záda. Všude kolem mě se vznášela nasládlá vůně šumavského. Trochu jsem litoval, že jsem tátovi lhal, ale na druhou stranu jsem si říkal, že věci, které s Terezou v Bavorsku o Kiliánovi zjistíme, za těch pár lží stojí.
@@ -14,8 +12,6 @@ Za okny stála mrazivá bílá mlha. Byla tak hustá, až se zdálo, že se naš
 Sešel jsem po schodech a nakoukl do ložnice. Z tátových po­otevřených úst vytékaly na polštář sliny zabarvené šumavským bylinným a máminy rozcuchané vlasy se matně leskly.
 
 Došel jsem do kuchyně, kde se mi sušily boty, připravil si svačinu a přemýšlel, co si zabalím. Navrch batohu jsem nacpal papíry s nápisem _Geocaching – Šumavský národní park._ V ložnici zazvonil budík. Táta s mámou se vypotáceli z postelí jako astronauti ve _Vetřelci,_ kteří se probírají z hlubokého spánku a centrální počítač je volá k sobě.
-
-  
 
 U snídaně byl táta opuchlý, jako by mu někdo přes noc držel hlavu v oparu dvaceti tajemných bylin.
 

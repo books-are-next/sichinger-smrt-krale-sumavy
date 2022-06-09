@@ -3,8 +3,6 @@ title: "KAPITOLA ČTRNÁCTÁ Pátek 3\\.\_září"
 contentType: prose
 ---
 
-  
-
 Za Terezinou chalupou ještě pořád ležela hromada starých matrací, krabic a rozlámaných dvířek.
 
 „Paša to ještě neodvezl?“ divil jsem se.
@@ -45,7 +43,7 @@ Kuchyně u Terezy dnes čerstvým koláčem bohužel nevoněla. V křesle u o
 
 „Koukejte, co mám!“ zdvihl knihu a my si přečetli její název.
 
-_Kaltenbach – Heimat im Böhmerwald_
+__Kaltenbach – Heimat im Böhmerwald__
 
 „Konečně mi přišlo druhý vydání, to první je úplně rozebraný! Tohle si vydali odsunutý Němci v Röhrnbachu s mapou všech domů na Nových Hutích z roku 1936. A je tu jediná fotka Kiliána, která existuje.“
 
@@ -107,27 +105,27 @@ Otevřel jsem obálku. Jestli najdu fotky nějaké ženské, z Bavorska se už 
 
 Nahoře leželo několik složených papírů. Rozložil jsem ten první:
 
-RAŠELINA
+_RAŠELINA_
 
-jak rád bych zabořil  
+_jak rád bych zabořil  
 hlavu do bláta  
 a cítil rozbředlou  
-vůni země
+vůni země_
 
-jak rád bych se válel  
+_jak rád bych se válel  
 v loužích u lesa  
 a objímal pařezy  
-hnijící v dešti
+hnijící v dešti_
 
-ještě jsou strže  
+_ještě jsou strže  
 do kterých jsem nespad  
 ještě jsou strniště  
-kterýma jsem neproběh
+kterýma jsem neproběh_
 
-jak rád bych vymyslel  
+_jak rád bych vymyslel  
 nová sprostá slova  
 a šeptal je pahýlům  
-trčícím z vřesovišť
+trčícím z vřesovišť_
 
 Páni, táta psal básně! O rašelině!
 

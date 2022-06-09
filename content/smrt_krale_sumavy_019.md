@@ -3,8 +3,6 @@ title: "KAPITOLA TŘINÁCTÁ Pátek 3\\.\_září"
 contentType: prose
 ---
 
-  
-
 Vyhlédl jsem do ranního světla. Černá kočka ležela pod šípkovým keřem vedle silnice. Mohl jsem ji pohřbívat třeba dvakrát denně, cestu zpátky na svět si stejně našla.
 
 Táta se oholil a slušně oblékl, nejspíš ho čekala schůzka s lidmi, kteří chtějí po Šumavě hledat spousty schovaných věcí, a nepřejí si, aby je schovával nějaký hadrník.
@@ -269,17 +267,17 @@ Miklosz vstal a mračil se přitom jako politik, na kterého někdo vyhrabal po
 
 Tohle mi odepsal:
 
-Vážená paní učitelko,
+> _Vážená paní učitelko,_
 
-za ta léta, co se zabývám historií hospodářské krize, jsem se setkal s mnoha bizarními nápady, jak řešit naši tehdejší tíživou situaci.
+> _za ta léta, co se zabývám historií hospodářské krize, jsem se setkal s mnoha bizarními nápady, jak řešit naši tehdejší tíživou situaci._
 
-Prodej části Šumavy však nebyl možný. Masarykovské Česko­slovensko mohlo disponovat pouze pozemky státních lesů a statků. Tehdejší demokratická republika byla právním státem a vlastnictví bylo nedotknutelné, tedy kromě zákonem stanovených případů za náhradu.
+> _Prodej části Šumavy však nebyl možný. Masarykovské Česko­slovensko mohlo disponovat pouze pozemky státních lesů a statků. Tehdejší demokratická republika byla právním státem a vlastnictví bylo nedotknutelné, tedy kromě zákonem stanovených případů za náhradu._
 
-Přeji Vám i Vašim žákům mnoho úspěchů
+> _Přeji Vám i Vašim žákům mnoho úspěchů_
 
-S pozdravem
+> _S pozdravem_
 
-_Jiří Šouša_
+> _Jiří Šouša_
 
 Rozumíš tomu?“
 

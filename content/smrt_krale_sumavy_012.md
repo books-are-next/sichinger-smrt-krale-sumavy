@@ -3,8 +3,6 @@ title: "KAPITOLA ŠESTÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
-  
-
 Za mnou někdo zašeptal: „Jestli to není pro prvňáky a druháky, bude to fakt pro silný nervy!“
 
 Pak se otevřely dveře a do třídy vstoupil vysoký stařec. Na sobě měl světle modrou košili s bílými knoflíky a světlé plátěné kalhoty. Byl ohnutý a ke stolku se šoural celé dvě minuty. Stáli jsme v lavicích a nehýbali se. Většina z nás ani nedýchala, jak jsme se mu snažili pomáhat, aby došel až ke stolku.

@@ -3,8 +3,6 @@ title: "KAPITOLA DVACÁTÁ Neděle 5\\.\_září"
 contentType: prose
 ---
 
-  
-
 Všude kolem mě planulo světlo nového dne. Z bavorských lesů stoupaly cáry mlhy, jako by byl každý kopec bitevní lodí, z jejíhož boku se právě vystřelilo.
 
 Vypadalo to krásně a já se otočil, abych řekl: _Terezo, koukej_, _kopce bojujou_ v _bitvě!_

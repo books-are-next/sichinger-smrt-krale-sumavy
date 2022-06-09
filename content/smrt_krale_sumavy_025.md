@@ -3,8 +3,6 @@ title: "KAPITOLA DEVATENÁCTÁ Sobota 4\\.\_září"
 contentType: prose
 ---
 
-  
-
 „Co děláš?“ vykřikl jsem, sotva za námi farář zavřel dveře.
 
 „Musíme vypadnout.“
@@ -335,10 +333,10 @@ A k čemu mi to je?
 
 * * *
 
-[9](./resources/undefined) Ano, ano, peníze, samozřejmě! Pozn. red.
+_[9](./resources/undefined) Ano, ano, peníze, samozřejmě! _Pozn. red.__
 
-[10](./resources/undefined) Chtěl by novou počítačovou hru. Vy máte dceru? Pozn. red.
+_[10](./resources/undefined) Chtěl by novou počítačovou hru. Vy máte dceru? _Pozn. red.__
 
-[11](./resources/undefined) To je přeci jen lepší než mít kluka. Pozn. red.
+_[11](./resources/undefined) To je přeci jen lepší než mít kluka. _Pozn. red.__
 
-[12](./resources/undefined) Ano, to věřím. Pozn. red.
+_[12](./resources/undefined) Ano, to věřím. _Pozn. red.__

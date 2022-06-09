@@ -3,8 +3,6 @@ title: "KAPITOLA JEDENÁCTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
-  
-
 Stoupali jsme do prudkého kopce, dokud jsme se nedostali na lesní cestu. Slunce pražilo a já si vzpomněl, že jak jsem na obědě pospíchal, zapomněl jsem se napít, a teď jsem dostal pořádnou žízeň.
 
 Taky nás hasiči mohli aspoň postříkat!

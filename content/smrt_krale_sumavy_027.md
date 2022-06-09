@@ -3,8 +3,6 @@ title: "KAPITOLA DVACÁTÁ PRVNÍ Neděle 5\\.\_září"
 contentType: prose
 ---
 
-  
-
 Na rozdíl od prázdných bavorských gasthausů bylo v hospodě _U_ _Černého vlka_ na Borové Ladě plno. Táta seděl u výčepu se zarostlým lesákem.
 
 „No to je dost, že jsi zpátky! Představ si, co říkali chlapi! Prej v Českejch Žlebech žádná brigáda nebyla.“
@@ -73,7 +71,7 @@ Lesák se zasmál a zapálil si další cigaretu.
 
 „Tati, prosím tě, pojď.“ Jestli tátu neodvedu, stane se něco strašného. Vrátíme se domů a na stole v kuchyni bude čekat mámy vzkaz:
 
-_Už toho mám dost_ – _vracím se do Prahy._
+__Už toho mám dost_ – _vracím se do Prahy.__
 
 Myslel někdy vůbec táta na to, že by od něj máma odešla?
 

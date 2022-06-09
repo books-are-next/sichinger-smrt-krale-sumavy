@@ -3,8 +3,6 @@ title: "KAPITOLA DEVÁTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
-  
-
 Táta odjížděl do práce až v devět, a tak jsme snídali všichni dohromady, jako v Praze.
 
 Táta se přestal holit a začal nosit zelené kalhoty, košile a kabáty. Vypadal jako schwarzenberský hajný z poloviny osmnáctého století, který osidluje Šumavu.
@@ -131,39 +129,39 @@ Druhou hodinu se paní učitelka zastavila u mé lavice. „Tomáši, asi jsem 
 
 Na školní časopis vypadal docela slušně, měl spoustu barevných fotek a obrázků. Naše škola vydávala časopis jeden rok a pak zaniknul.
 
-HASIČSKÁ SOUTĚŽ
+> _HASIČSKÁ SOUTĚŽ_
 
-Soutěž se odehrávala na fotbalovém hřišti v Borové Ladě. V naší kategorii jsme za naši školu soutěžili s Danielem.
+> _Soutěž se odehrávala na fotbalovém hřišti v Borové Ladě. V naší kategorii jsme za naši školu soutěžili s Danielem._
 
-Nejdříve byla zdravotnická soutěž. Začínali jsme na stanovišti číslo sedm. Tam jsme dostali notýsky o dárcovství krve. Potom jsme přešli na stanoviště číslo osm, kde se srazili dva cyklisti. Jeden měl zlomenou ruku a druhý otevřenou ránu na noze. Ti dobrovolníci (tedy ti zranění) měli rány z takové lepkavé hmoty a v ní jehličí. Daniel odmítal do hmoty nalít peroxid, protože se bál, že hmota vybouchne, ale zdravotnice říkala, ať se nebojí. Daniel zavřel oči, vylil pár kapek a udělalo se mu zle, protože pořád očekával výbuch. Zdravotnice mu řekla, ať si radši sedne na zdravý vzduch. Byla z Prachatic a nevěděla, že zdravý vzduch máme všude. Daniel si alespoň sedl tak, aby neviděl na žádné poranění.
+> _Nejdříve byla zdravotnická soutěž. Začínali jsme na stanovišti číslo sedm. Tam jsme dostali notýsky o dárcovství krve. Potom jsme přešli na stanoviště číslo osm, kde se srazili dva cyklisti. Jeden měl zlomenou ruku a druhý otevřenou ránu na noze. Ti dobrovolníci (tedy ti zranění) měli rány z takové lepkavé hmoty a v ní jehličí. Daniel odmítal do hmoty nalít peroxid, protože se bál, že hmota vybouchne, ale zdravotnice říkala, ať se nebojí. Daniel zavřel oči, vylil pár kapek a udělalo se mu zle, protože pořád očekával výbuch. Zdravotnice mu řekla, ať si radši sedne na zdravý vzduch. Byla z Prachatic a nevěděla, že zdravý vzduch máme všude. Daniel si alespoň sedl tak, aby neviděl na žádné poranění._
 
-Zraněný byl docela chudák, protože i když jsem mu na nohu navázala různé šátky a obvazy, moc jsem ho neuzdravila. Naopak, jeho stav se zhoršil – říkal, že lituje, že se nechal zranit, i když jen naoko, aby se ulil ze školy – teď měl strach, že se mu něco stane, a že se stejně příští rok soutěže radši nezúčastní.
+> _Zraněný byl docela chudák, protože i když jsem mu na nohu navázala různé šátky a obvazy, moc jsem ho neuzdravila. Naopak, jeho stav se zhoršil – říkal, že lituje, že se nechal zranit, i když jen naoko, aby se ulil ze školy – teď měl strach, že se mu něco stane, a že se stejně příští rok soutěže radši nezúčastní._
 
-Soutěž byla těžká, skončili jsme úplně poslední stejně jako loni, osmí z osmi škol, a nikam jsme nepostoupili.
+> _Soutěž byla těžká, skončili jsme úplně poslední stejně jako loni, osmí z osmi škol, a nikam jsme nepostoupili._
 
-Jako odměnu (i za to poslední místo) jsme dostali různé zákusky, ale Daniel nic nechtěl a já jsem jich snědla tolik, že mi bylo špatně.
+> _Jako odměnu (i za to poslední místo) jsme dostali různé zákusky, ale Daniel nic nechtěl a já jsem jich snědla tolik, že mi bylo špatně._
 
-Tereza Urmanová
+> _Tereza Urmanová_
 
 Tereza do časopisu napsala spoustu článků: _Jak jsme chytali ptáčky s panem Walterem, Jak jsme si ve škole hráli na Karla Klostermanna, Jak jsme nocovali ve škole_ a všechny se mi docela líbily.
 
 Na poslední stránce časopisu byla přání Ježíškovi.
 
-Milý Ježíšku.
+> _Milý Ježíšku._
 
-Přál bych si na Borovce kasárny, letiště, Penny Market a Hlavní autobusové nádraží Florenc. Máme tady toho málo.
+> _Přál bych si na Borovce kasárny, letiště, Penny Market a Hlavní autobusové nádraží Florenc. Máme tady toho málo._
 
-Patrik
+> _Patrik_
 
-Milý Ježíšku,
+> _Milý Ježíšku,_
 
-přála bych si obchod, protože na Horské Kvildě žádný nemáme a lidé si už potřebují něco nakoupit. Hlavně potraviny; musíme pro ně jezdit až do Vimperka.
+> _přála bych si obchod, protože na Horské Kvildě žádný nemáme a lidé si už potřebují něco nakoupit. Hlavně potraviny; musíme pro ně jezdit až do Vimperka._
 
-Tvoje Marijánka
+> _Tvoje Marijánka_
 
-Já bych chtěl telefon nokiji a rádijo na cédečka, kombinezu, tlusté fiksi, tanka a auto
+> _Já bych chtěl telefon nokiji a rádijo na cédečka, kombinezu, tlusté fiksi, tanka a auto_
 
-Ahoj Páťa
+> _Ahoj Páťa_
 
 Dočetl jsem přání přesně v okamžiku, kdy do třídy vstoupila starší paní.
 
@@ -203,7 +201,7 @@ Jeho táta byl Maďar, nemluvil česky, hrozně pil a ještě to odpoledne za m
 
 Pak jsem jednou odpoledne, to už děti odešly domů, našla na okně u jeho lavice vzkaz:
 
-_Jdu se utopit k jezírku._
+__Jdu se utopit k jezírku.__
 
 Nazula jsem si boty, vběhla mezi stromy a našla Imrého, jak sedí na břehu a dívá se na černou vodu lesního jezírka. Vzala jsem ho za ruku a odvedla do školy.
 

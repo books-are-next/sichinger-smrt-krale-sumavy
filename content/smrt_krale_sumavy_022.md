@@ -3,8 +3,6 @@ title: "KAPITOLA ŠESTNÁCTÁ Sobota 4\\.\_září"
 contentType: prose
 ---
 
-  
-
 „Ahoj,“ řekl táta. „Jak to jde? Už jsem ti volal v deset.“
 
 „Neměl jsem signál.“ Ještě pořád jsem byl jednou nohou v Čechách a nemohl se zbavit pocitu, že se táta převlékl za pohraničníka a pozoruje mě z lesa.
@@ -345,6 +343,6 @@ Paní se usmála, jako by jí místo, kde spí mrtví, přinášelo radost, a u
 
 * * *
 
-[1](./resources/undefined) Potřebuju peníze. Pozn. red.
+_[1](./resources/undefined) Potřebuju peníze. _Pozn. red.__
 
-[2](./resources/undefined) Promiňte prosím, kde je hřbitov? Pozn. red.
+_[2](./resources/undefined) Promiňte prosím, kde je hřbitov? _Pozn. red.__
