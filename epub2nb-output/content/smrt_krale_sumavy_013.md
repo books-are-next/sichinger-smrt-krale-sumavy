@@ -3,8 +3,6 @@ title: "KAPITOLA SEDMÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
-  
-
 S nosem ještě zaneseným šňupacím tabákem jsem se vydal na oběd. Pobrali jsme batohy a paní družinářka nás odvedla oklikou přes zaniklou louku u řeky.
 
 Tentokrát jsem se ale neloudal jako poslední. Všichni se tlačili kolem mě.
@@ -209,7 +207,7 @@ Tereza popuzeně odstrčila židli a šla ke schodům.
 
 Terezin pokoj byl mnohem větší než špeluňka, ve které jsem musel přebývat já. Pod oknem stál světlý psací stůl s posuvnou lampou, vedle ustlaná postel s plyšovým zajícem, medvědem a liškou. Na stěně visel ohromný plakát Indiany Jonese s Harrisonem Fordem a jeho filmovým otcem Seanem Connerym:
 
-INDIANA JONES UND DER LETZTE KREUZZUG
+_INDIANA JONES UND DER LETZTE KREUZZUG_
 
 „Trojku mám taky nejradši,“ prohlásil jsem.
 
@@ -277,19 +275,19 @@ Tereza za sebou zavřela dveře a já se pustil do krabice. Našel jsem filmy j
 
 Zato jsem za krabicí objevil sešit s tvrdými deskami, nadepsaný dětským písmem:
 
-POLODENÍK
+_POLODENÍK_
 
-Někdy máte chuť si psát deník, ale vždycky to vydrží tak týden a najednou ani nevíte, že jste si ho psali. Jenže když vám někdo dá krásný sešit a pořádnou tužku, musíte toho nějak využít, takže si jednou za týden do toho sešitu něco načmáráte a pak všem říkáte, že máte deník. Problém je, že to není deník, ale týdeník nebo polodeník. Navíc, když celý den nic neděláte, co si do něj máte napsat? A co teprve když nic neděláte celý život? To si pak musíte zapisovat blbost za blbostí. Myslím, že deník mají buď šprti, nebo lidi, kteří se snaží bejt šprti, ale když máte polodeník, jste větší hrdina. Proto si ode dneška budu psát polodeník a bude ze mě hrdina.
+> _Někdy máte chuť si psát deník, ale vždycky to vydrží tak týden a najednou ani nevíte, že jste si ho psali. Jenže když vám někdo dá krásný sešit a pořádnou tužku, musíte toho nějak využít, takže si jednou za týden do toho sešitu něco načmáráte a pak všem říkáte, že máte deník. Problém je, že to není deník, ale týdeník nebo polodeník. Navíc, když celý den nic neděláte, co si do něj máte napsat? A co teprve když nic neděláte celý život? To si pak musíte zapisovat blbost za blbostí. Myslím, že deník mají buď šprti, nebo lidi, kteří se snaží bejt šprti, ale když máte polodeník, jste větší hrdina. Proto si ode dneška budu psát polodeník a bude ze mě hrdina._
 
 Vzadu za polodeníkem ležel velký složený plakát.
 
-POZOR, POZOR!
+> _POZOR, POZOR!_
 
-Provádí se nábor do nové kapely!
+> _Provádí se nábor do nové kapely!_
 
-Volná místa jsou: kytara, buben, flétna.
+> _Volná místa jsou: kytara, buben, flétna._
 
-Kdo chce hrát, ať přijde na hřiště v Borové Ladě v pátek v 16.00.
+> _Kdo chce hrát, ať přijde na hřiště v Borové Ladě v pátek v 16.00._
 
 Vzpomněl jsem si na plakáty, které jsme s Janisem lepili kolem školy, a natáhl Terezin plakát před sebe. Zkoušel jsem si představit, že ho čtu vyvěšený na ulici, jenže něco mi na něm nehrálo.
 

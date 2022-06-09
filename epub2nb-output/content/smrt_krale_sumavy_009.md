@@ -3,8 +3,6 @@ title: "KAPITOLA TŘETÍ Pondělí 30\\.\_srpna"
 contentType: prose
 ---
 
-  
-
 „Támhle je Chalupská slať.“ Táta ukazoval na zkroucené stromy v údolí pod Novým Světem. „Tudy chodíval Kilián Nowotný, Král Šumavy. Byl to jedinej člověk, kterej dokázal slať přejít – tady utíkal financům i esenbákům.“
 
 Táta byl pašeráky úplně posedlý. Když jsem byl malý, strašil mě hadrovou postavičkou, kterou udělal z kapesníku: _Vezme si tě pašerák!_

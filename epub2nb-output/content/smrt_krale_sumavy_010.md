@@ -3,8 +3,6 @@ title: "KAPITOLA ČTVRTÁ Úterý 31\\.\_srpna"
 contentType: prose
 ---
 
-  
-
 Sotva jsem se probudil a otevřel oči, radši jsem je zase zavřel. Za okny stál soumrak a to znamenalo, že jsem poslední den prázdnin prospal.
 
 Jenže mobil ukazoval půl osmé ráno!

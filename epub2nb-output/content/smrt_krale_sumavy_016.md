@@ -3,8 +3,6 @@ title: "KAPITOLA DESÁTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
-  
-
 Oběd začínal už v jedenáct, měli jsme buchtičky se šodó, které v Praze sedmáci rvali do plastových lahví a používali v šatnách jako účinné ruční bomby.
 
 Na hřišti stálo osm autobusů základních škol a celý prostor až k řece a k silnici zaplňovaly lesklé hasičské vozy.

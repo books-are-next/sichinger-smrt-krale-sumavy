@@ -3,8 +3,6 @@ title: "KAPITOLA PÁTÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
-  
-
 „Vstávej,“ řekla máma. „Musíš do školy.“
 
 Bylo prvního září, čtvrt na sedm. Přál jsem si, aby za okny zazvonila tramvaj nebo se alespoň nabourala nějaká auta.

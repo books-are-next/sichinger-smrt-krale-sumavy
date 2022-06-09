@@ -3,8 +3,6 @@ title: "KAPITOLA PRVNÍ Pondělí 30\\.\_srpna"
 contentType: prose
 ---
 
-  
-
 Probudilo mě zvonění zvonku.
 
 „To budou oni!“ křičel táta. „Jděte někdo otevřít!“
