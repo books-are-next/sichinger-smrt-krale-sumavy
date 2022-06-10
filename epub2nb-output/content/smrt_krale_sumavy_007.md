@@ -3,6 +3,8 @@ title: "KAPITOLA PRVNÍ Pondělí 30\\.\_srpna"
 contentType: prose
 ---
 
+<section>
+
 Probudilo mě zvonění zvonku.
 
 „To budou oni!“ křičel táta. „Jděte někdo otevřít!“
@@ -57,6 +59,10 @@ Vydal jsem se za našimi návštěvníky a oni se překvapeně otočili.
 
 Poroučel jsem se do kuchyně.
 
+</section>
+
+<section>
+
 Táta s mámou si dělali opékané tousty a táta říkal: „S trochou štěstí by to mohlo vyjít.“
 
 „Co by mohlo vyjít?“ zeptal jsem se.
@@ -97,6 +103,10 @@ Ozvalo se pár rychlých cvaknutí.
 
 „A je to. Duši máš pořád tam, cos ji měl, ne?“
 
+</section>
+
+<section>
+
 Když jsem se vrátil do kuchyně, máma mi už zabalila dvě tašky.
 
 „Pamatuješ si Magdu?“
@@ -132,3 +142,5 @@ Sešli jsme k autu. Otevřel jsem zadní dveře, nasoukal se na sedadlo a nat�
 „Ty máš ale náladu, Tomáši,“ ozvala se máma. „Jsou to jenom dva normální dny.“
 
 „Jenže to jsou dva poslední dny prázdnin! Ty nikdy nejsou normální!“
+
+</section>

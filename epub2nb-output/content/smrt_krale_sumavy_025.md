@@ -3,6 +3,8 @@ title: "KAPITOLA DEVATENÁCTÁ Sobota 4\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 „Co děláš?“ vykřikl jsem, sotva za námi farář zavřel dveře.
 
 „Musíme vypadnout.“
@@ -56,6 +58,10 @@ Z otevřených vrat u rampy vyšli dva muži.
 Ten první byl vysoký, zarostlý černovlasý muž, kterého jsem už někde viděl.
 
 „Tati!“ vykřikla Tereza.
+
+</section>
+
+<section>
 
 Terezin táta byl asi čtyřicetiletý chlap s uhlově černými vlasy, tmavýma očima a rozložitou postavou člověka, který se živí vlastníma rukama. Na sobě měl krátkou koženou bundu a černé džíny s kovovým páskem. Na ruce mu visel zlatý řetízek.
 
@@ -233,6 +239,10 @@ Vyjeli jsme ze dvora. Tereza s tátou kráčeli k rampě a Tereza se za mnou 
 
 Potom mi oba zmizeli z očí.
 
+</section>
+
+<section>
+
 Muž jel klidně, jako člověk, který denně najezdí stovky kilometrů. Po krku se mu táhla úzká dlouhá jizva a na ruce měl tetování z půlky zakryté rukávem.
 
 Neříkal táta, že se Terezin táta porval v Německu s Turkama?
@@ -309,6 +319,10 @@ Vrátil jsem se na pěšinu a zkusil to o pár metrů dál. Tady to bylo ješt
 
 „Seš zrádce!“ zařval jsem sám na sebe a skoro se rozbrečel.
 
+</section>
+
+<section>
+
 Otevřel jsem dvířka posedu a snažil se nemyslet na mrtvé mouchy. Na lavici jsem nahmatal roztrhaný svetr a začal mouchy vyhazovat ven. Pak jsem vytáhl spacák a rozložil ho na podlaze.
 
 Světla se rozlézala po setmělých horách a kdesi daleko a hluboko pode mnou projíždělo auto velikosti cvrčka.
@@ -340,3 +354,5 @@ _[10](./resources/undefined) Chtěl by novou počítačovou hru. Vy máte dceru?
 _[11](./resources/undefined) To je přeci jen lepší než mít kluka. _Pozn. red.__
 
 _[12](./resources/undefined) Ano, to věřím. _Pozn. red.__
+
+</section>

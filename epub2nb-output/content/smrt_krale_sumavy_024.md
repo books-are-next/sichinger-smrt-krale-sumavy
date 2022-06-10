@@ -3,6 +3,8 @@ title: "KAPITOLA OSMNÁCTÁ Sobota 4\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Dveře fary se otevřely. Muž byl tak starý a vysoký, že jsem si vzpomněl na pana Lampu. Na sobě měl bílou košili s velkými kapsami a šedivé plátěné kalhoty. Holá hlava se ve světle chodby leskla jako vánoční ozdoba.
 
 „Pojďte dál.“
@@ -85,7 +87,15 @@ Víte, že o něm Kalčík taky psal?“
 
 Farář sáhl po knize _Král Šumavy_ a otevřel ji na založené stránce:
 
+</section>
+
+<section>
+
 __Kvildu tenkrát opustil farář a nikdo pro něj nezaplakal.__
+
+</section>
+
+<section>
 
 No a jen co utekli, poslali do Vimperka mě. A stejně mi nezbylo než emigrovat – jako ti přede mnou jsem utíkal přes Kvildu.
 
@@ -292,3 +302,5 @@ Tereza se otočila k faráři: „Děkujem za všechno. To, co jste říkal o 
 „Dobře. Já jen že se za pár minut vracím do Pasova, a pak už bude pozdě, abyste…“
 
 „Opravdu se o nás nebojte. A ještě jednou vám děkujem,“ řekla Tereza a začala se obouvat.
+
+</section>

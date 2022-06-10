@@ -3,6 +3,8 @@ title: "KAPITOLA ŠESTÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Za mnou někdo zašeptal: „Jestli to není pro prvňáky a druháky, bude to fakt pro silný nervy!“
 
 Pak se otevřely dveře a do třídy vstoupil vysoký stařec. Na sobě měl světle modrou košili s bílými knoflíky a světlé plátěné kalhoty. Byl ohnutý a ke stolku se šoural celé dvě minuty. Stáli jsme v lavicích a nehýbali se. Většina z nás ani nedýchala, jak jsme se mu snažili pomáhat, aby došel až ke stolku.
@@ -308,3 +310,5 @@ V okamžiku, kdy vyšel ze dveří, zazvonilo, a tak skončila velká přestá
 Miklosz stál u okna a svíral ruce v pěst.
 
 Takovej starej děda, pomyslel jsem si, a zachránil mě před výpraskem.
+
+</section>

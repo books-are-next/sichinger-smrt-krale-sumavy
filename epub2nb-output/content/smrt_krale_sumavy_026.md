@@ -3,6 +3,8 @@ title: "KAPITOLA DVACÁTÁ Neděle 5\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Všude kolem mě planulo světlo nového dne. Z bavorských lesů stoupaly cáry mlhy, jako by byl každý kopec bitevní lodí, z jejíhož boku se právě vystřelilo.
 
 Vypadalo to krásně a já se otočil, abych řekl: _Terezo, koukej_, _kopce bojujou_ v _bitvě!_
@@ -16,6 +18,10 @@ Sáhl jsem instinktivně po mobilu, abych se podíval, kolik je, ale zapomněl j
 V zadní kapse kalhot jsem měl dopis, který Tereza posílala mámě. Napsala, jak mě vodila za nos, nebo mě vylíčila jako pražské neviňátko? Měl jsem sto chutí si ho přečíst, ale nakonec jsem ho neotevřel.
 
 Všechno, co mi Tereza potřebovala říct, mi už řekla.
+
+</section>
+
+<section>
 
 Pěšina na asfaltovou cestu, kterou jsem v noci marně hledal, vedla asi dvacet metrů od místa, kde jsem bojoval s křovím. Stopy po mých pokusech najít cestu i stopy po pneumatikách déšť odplavil do údolí.
 
@@ -85,6 +91,10 @@ Projeli jsme Kvildou a na Nové Hutě mířili od Zadova, takže jsme míjeli m
 
 Řidič mi zastavil na rozcestí u Studeného potoka a vlastně rozhodl za mě: nejdřív se to dozví Terezina máma, až potom naši.
 
+</section>
+
+<section>
+
 Ve větvích zakrslých bříz se chvěly pavučiny a světle zelená tráva se ohýbala k mrakům na modrém nebi. Tady Tereza poskakovala v trávě a smála se. V trávě u silnice ležela hromádka hlíny, hrob neznámé veverky. Stačilo jen přemýšlet a celý nesmysl s černou kočkou jsem mohl prokouknout už na začátku.
 
 Za ohybem cesty, těsně předtím, než se objevila Terezina chalupa, jsem se zastavil. Něco se ve mně zaseklo a já měl chuť se na všechno vykašlat.
@@ -92,6 +102,10 @@ Za ohybem cesty, těsně předtím, než se objevila Terezina chalupa, jsem se z
 Stopování mi přece jde! Pro toulání jsem se narodil! Do Prahy se dostanu raz dva. Seriál se u nás doma natáčí jen dva dny v týdnu, pět dní budu spát ve svém pokoji a ty dva někde přežiju, třeba na letišti nebo na nádražích.
 
 Jenže pak mě do nosu udeřil závan štiplavého kouře.
+
+</section>
+
+<section>
 
 Hromada starých matrací, krabic a rozlomených dvířek, kterou měl odvézt Paša, nebezpečně doutnala. Z matrací letěl nažloutlý štiplavý dým a tu a tam na nich vyskočily plameny, v nichž jsem ke svému údivu zahlédl notebook Vaio a věci, které jsem viděl u Terezy v pokoji. Indiana Jones i jeho dlouho postrádaný otec černali na plakátu poslední křížové výpravy stejně jako plakáty na nábor do nikdy nezaložené kapely.
 
@@ -128,6 +142,10 @@ Míra Zátka přikývl a nejspíš chtěl něco dodat, jenže v tom okamžiku 
 Potom se zamračil a podíval na mě.
 
 „Dobře,“ pronesl do telefonu a hovor ukončil. Nespouštěl ze mě oči, ani když říkal: „Tak u vás už taky hoří.“
+
+</section>
+
+<section>
 
 Existují dva způsoby, jak přemýšlet o tom, co nechceme, aby se stalo. V tom prvním je lepší si představovat do všech podrobností, co hrozného se může stát, protože samotným představováním můžeme zabránit všem variantám budoucnosti. V tom druhém je lepší si nic nepředstavovat, protože bychom to svou představou jen zbytečně přivolali.
 
@@ -208,3 +226,5 @@ Z chalupy se ozvalo několik tlumených ran a Míra Zátka vyběhl se strašli
 Máma přinesla tátovu kostkovanou košili, kterou nechal viset v kůlně, a Míra Zátka se pustil do opravy komína.
 
 Byl to muž, který umí opravit všechno bez toho, že by nejdřív vysvětloval, v čem bude hlavní problém, a jak se věci nejspíš pokazí.
+
+</section>

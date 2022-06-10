@@ -3,6 +3,8 @@ title: "KAPITOLA DVACÁTÁ PRVNÍ Neděle 5\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Na rozdíl od prázdných bavorských gasthausů bylo v hospodě _U_ _Černého vlka_ na Borové Ladě plno. Táta seděl u výčepu se zarostlým lesákem.
 
 „No to je dost, že jsi zpátky! Představ si, co říkali chlapi! Prej v Českejch Žlebech žádná brigáda nebyla.“
@@ -71,7 +73,15 @@ Lesák se zasmál a zapálil si další cigaretu.
 
 „Tati, prosím tě, pojď.“ Jestli tátu neodvedu, stane se něco strašného. Vrátíme se domů a na stole v kuchyni bude čekat mámy vzkaz:
 
+</section>
+
+<section>
+
 __Už toho mám dost_ – _vracím se do Prahy.__
+
+</section>
+
+<section>
 
 Myslel někdy vůbec táta na to, že by od něj máma odešla?
 
@@ -118,6 +128,10 @@ Vzpomněl jsem si, co říkala paní učitelka. Nejstarším starousedlíkem na 
 Lesák se ohradil. „Svoje frťany si zaplatím sám. Vod tebe, Pražáku, nic nechci.“
 
 „Fajn,“ řekl táta a konečně se zvedl.
+
+</section>
+
+<section>
 
 Slabé slunce svítilo na přilby cyklistů, lesklé rámy kol i na lesy obklopující údolí Studené Vltavy. Na nebi plula bílá oblaka.
 
@@ -176,6 +190,10 @@ Ale táta se opíral o ohradu a klidně si pokuřoval.
 „Tereza chtěla moc pryč, že jo?“
 
 „Jo, to teda chtěla,“ souhlasil jsem.
+
+</section>
+
+<section>
 
 Z chalupy se už nevalil kouř. Modrá fabia Míry Zátky byla pryč a na jejím místě parkovala bílá oktávka se zeleným nápisem POLICIE.
 
@@ -248,6 +266,10 @@ Máma vstala z lavičky.
 „Mami, vážně, věř mi, všechno je to pravda, Tereza si to všechno vymyslela!“
 
 „Dobře. Já ti věřím.“ Máma mě pohladila po vlasech a já se vydal k autu.
+
+</section>
+
+<section>
 
 Vrátil jsem se asi po půlhodině. Naši popíjeli kávu na lavičce u dveří, protože kuchyně připomínala vnitřek ponorky po menším požáru. Máma vypadala klidně a vyrovnaně a vlasy už měla upravené. Špinavá stará košile, ve které Míra Zátka prováděl nezbytné opravy, ležela v koši na prádlo. Z chalupy i nadále vycházel štiplavý pach, jako by se proměnila v ďáblovu alchymickou dílnu.
 
@@ -405,6 +427,10 @@ Všechno kolem mě byla jen lež, která patřila k téhle pustině.
 
 „Já pro ně dojdu,“ řekl jsem a vstal.
 
+</section>
+
+<section>
+
 Táta seděl u počítače a pouštěl si rozhovor s člověkem, který mohl klidně vypadat jako Kilián Nowotný, už proto, že nikdo nevěděl, jak Kilián vypadal, což se týkalo i redaktorů rádia ve Vídni.
 
 „Co je?“
@@ -488,3 +514,5 @@ Nechtěli, aby mě někdo vodil za nos.
 „Prosím vás, už toho nechte. Já mám hlad!“ ozvala se máma.
 
 Podal jsem jí první opečený špekáček. Potom jsme seděli a mlčky jedli pod zářivými hvězdami, na kraji Chalupské slatě, která už navždy zůstane domovem Kiliána Nowotného, protože ji prochodil jako nikdo jiný.
+
+</section>

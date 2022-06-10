@@ -3,6 +3,8 @@ title: "KAPITOLA DVANÁCTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Paní Najmanová měla bílé vlasy sčesané dozadu nad šedivýma živýma očima. Vypadala jako slečna Marplová, která se v důchodu přestěhovala na Šumavu.
 
 Usadila nás do kuchyně a nabídla nám perník a mentolové bonbony. Perník byl výborný, plný rozinek a ořechů, a krásně voněl.
@@ -201,7 +203,15 @@ Paní Najmanová se na nás pobaveně usmála. Hrála si s námi stejně jako s
 
 Vrátil jsem fotky zamyšleně do kufru. Pořád jsem měl pocit, že jsem na něco zapomněl. Vtom jsem si všiml titulku rozhovoru s dvanáctiletým Tomášem Holým:
 
+</section>
+
+<section>
+
 __LIDÉ ZAPOMENOU_, _ŽE JIM NĚKDO POMŮŽE, ALE ZVÍŘATA NE__
+
+</section>
+
+<section>
 
 „Říkala jste, že tam byla dvě zvířata!“ vykřikl jsem.
 
@@ -261,6 +271,10 @@ Došli jsme na rozcestí na Studeném potoce. Všechno mě škrábalo a kousalo
 
 „Jen se neboj.“
 
+</section>
+
+<section>
+
 Všude kolem padalo šero a nohy mě bolely tak, že jsem si říkal, že domů snad ani nedojdu. V ohybu cesty jsem spatřil náš dům – a kočku ležící pod šípkovým keřem. Vypadala jako černá Šípková Růženka.
 
 Přece těm nesmyslům nebudu věřit, pomyslel jsem si.
@@ -302,3 +316,5 @@ Máma se na mě udiveně podívala.
 „Ne, kočky ne.“
 
 Dovlekl jsem se do koupelny a zapálil v brutaru. Šlo mi to už dobře, jenom mě představa, že si budu muset zatápět den co den až do Vánoc, začínala děsit.
+
+</section>

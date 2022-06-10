@@ -3,6 +3,8 @@ title: "KAPITOLA TŘETÍ Pondělí 30\\.\_srpna"
 contentType: prose
 ---
 
+<section>
+
 „Támhle je Chalupská slať.“ Táta ukazoval na zkroucené stromy v údolí pod Novým Světem. „Tudy chodíval Kilián Nowotný, Král Šumavy. Byl to jedinej člověk, kterej dokázal slať přejít – tady utíkal financům i esenbákům.“
 
 Táta byl pašeráky úplně posedlý. Když jsem byl malý, strašil mě hadrovou postavičkou, kterou udělal z kapesníku: _Vezme si tě pašerák!_
@@ -73,6 +75,10 @@ Vytáhl jsem batoh. Máma posbírala tašky a něco říkala. Táta vlekl obrov
 
 Tak jsme se vydali k chalupě.
 
+</section>
+
+<section>
+
 V koutě kuchyně stál kovový sporák spojený s kamny rourou, která se kroutila jako plechová tasemnice zavrtaná do zdi. Zdi byly poseté skvrnami od sazí a pavučin. Visely na nich lebky s parohy a růžky a z šedých lebek zíraly prázdné oční důlky. Zůstal jsem na ně hyp­notizovaně koukat – měl jsem pocit, že důlky chtějí, abych vylezl na židli a prohlédl si jejich prázdnotu pěkně zblízka.
 
 Nad rozložitým stolem visely hodiny s kukačkou. V místnosti bylo takové šero, až se zdálo, že se okna chalupy propadají do země. I když stála u cesty, v dohledu nebylo nic jiného než slať na jedné a les na druhé straně.
@@ -96,6 +102,10 @@ Vyběhl jsem na chodbu a zařval:
 „Nemůžeme jet zpátky do Prahy?“
 
 Nikdo mi neodpověděl.
+
+</section>
+
+<section>
 
 K večeři jsme měli chleba s paštikou, protože na rozdělávání ohně už bylo pozdě. Chleba byl tvrdý, táta tašku s čerstvým pečivem zapomněl doma. Aby nás rozveselil, vzpomínal na svoje dětství ve Vimperku a na svého spolužáka Míru Zátku.
 
@@ -197,6 +207,10 @@ Dveře se zavřely. Myslel jsem na tátu, který zdrhnul do hospody, a pak jsem
 
 Potom jsem konečně usnul.
 
+</section>
+
+<section>
+
 Uprostřed noci mě probudily podivné zvuky. Nejdřív jsem si myslel, že po střeše skáče nějaké zvíře, ale pak jsem uslyšel šramocení z kuchyně.
 
 Tma v pokoji byla tak hustá, že jsem skoro nenašel dveře. Chvilku jsem šátral nohama ve vzduchoprázdnu, dokud jsem nenašel schodiště.
@@ -243,4 +257,10 @@ Z kulatého rámečku se na mě dívala fotografie asi dvanáctiletého hnědov
 
 Pod obrázkem stálo:
 
+</section>
+
+<section>
+
 _Tak tě u nás vítám, hrdino._
+
+</section>

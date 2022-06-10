@@ -3,6 +3,8 @@ title: "KAPITOLA PATNÁCTÁ Pátek 3\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Budík ukazoval půl sedmé.
 
 Bolela mě kolena, stehna a záda. Všude kolem mě se vznášela nasládlá vůně šumavského. Trochu jsem litoval, že jsem tátovi lhal, ale na druhou stranu jsem si říkal, že věci, které s Terezou v Bavorsku o Kiliánovi zjistíme, za těch pár lží stojí.
@@ -12,6 +14,10 @@ Za okny stála mrazivá bílá mlha. Byla tak hustá, až se zdálo, že se naš
 Sešel jsem po schodech a nakoukl do ložnice. Z tátových po­otevřených úst vytékaly na polštář sliny zabarvené šumavským bylinným a máminy rozcuchané vlasy se matně leskly.
 
 Došel jsem do kuchyně, kde se mi sušily boty, připravil si svačinu a přemýšlel, co si zabalím. Navrch batohu jsem nacpal papíry s nápisem _Geocaching – Šumavský národní park._ V ložnici zazvonil budík. Táta s mámou se vypotáceli z postelí jako astronauti ve _Vetřelci,_ kteří se probírají z hlubokého spánku a centrální počítač je volá k sobě.
+
+</section>
+
+<section>
 
 U snídaně byl táta opuchlý, jako by mu někdo přes noc držel hlavu v oparu dvaceti tajemných bylin.
 
@@ -62,6 +68,10 @@ Máma mě políbila na vlasy a táta poplácal po zádech. Nastoupili a já te
 Teď mě čekalo trmácení do cizí země. Najednou jsem zatoužil sedět v autě a poslouchat písničky od _Green Day._
 
 Jenže na to už bylo pozdě.
+
+</section>
+
+<section>
 
 Stál jsem u okna v opuštěném domě a vyhlížel do mlhy, která neměla začátek ani konec. Ohrady byly pryč, slať byla pryč, silnice byla pryč a mí rodiče byli taky pryč. Připadal jsem si jako první den na zastávce, jen já a dokonale všudypřítomný prostor.
 
@@ -296,3 +306,5 @@ Zastavili jsme se na hranici. Vedla uprostřed můstku nad potokem, který se v�
 „Tak jdem?“ zdvihl jsem nohu, abych udělal svůj první krok do cizí země.
 
 V tom okamžiku mi zazvonil mobil.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA ČTVRTÁ Úterý 31\\.\_srpna"
 contentType: prose
 ---
 
+<section>
+
 Sotva jsem se probudil a otevřel oči, radši jsem je zase zavřel. Za okny stál soumrak a to znamenalo, že jsem poslední den prázdnin prospal.
 
 Jenže mobil ukazoval půl osmé ráno!
@@ -143,6 +145,10 @@ Udělal jsem krok a vší silou ji nakopnul. Vznesla se do vzduchu jako špinav
 
 Zatracená pitomá bestie.
 
+</section>
+
+<section>
+
 K večeři jsme měli zase tvrdý chleba s paštikou, protože komín v kuchyni nefungoval.
 
 Táta vytáhl tužku a začal kreslit mapu.
@@ -176,6 +182,10 @@ Tady jezdil jediný autobus, a to jsem na něj musel jít dva kilometry pěšky
 „Před dvaceti lety bejvaly vevnitř a telata se s nima vůbec nenechávala! A nikdo se nemohl do kravína ani podívat, protože by se mu udělalo šoufl. Teď jsou venku! Tak mi neříkej, že se tu nic nezlepšuje! To jenom lidi, co nad ničím nepřemejšlí, si myslí, že všechno tady je zaostalý. Když vidíš ty nádherný krávy, víš, že jsme se osvobodili od propagandy, která říká, že krávy maj celej svůj život prožít zavřený v kravíně! Aspoň ten dobytek jsme osvobodili! Kdybych na to měl buňky, přísahám, že začnu sedlačit!“
 
 „To je ohromnej nápad,“ poznamenala máma.
+
+</section>
+
+<section>
 
 K večeru jsem se ještě na chvilku vypravil ven. Bloumal jsem po okolí a přemýšlel nad krabičkou, která mi přistála na střeše. Pod šípkovým keřem ležela černá kočka. Vypadala stejně opuštěně jako já a mně jí najednou přišlo líto; vyhrabal jsem v trávě díru, kočku tam dvěma klacíky dotáhnul a zasypal ji hlínou a listím.
 
@@ -279,6 +289,10 @@ Příběh byl jako všechny filmy, které se u nás dřív natáčely – nem�
 
 Celou dobu jsem měl pocit, jako bych na okamžik viděl sám sebe, a to mi nahánělo hrůzu.
 
+</section>
+
+<section>
+
 Před usnutím jsem přemýšlel nad krabičkou a fotkou. Kde se tu vzala, když tu nikde nikdo není? Že by ji tam hodil táta? To by vysvětlovalo, proč mi Paša přivezl právě filmy s Tomášem Holým. Ale copak by se táta vypravil uprostřed noci pět kilometrů z hospody a pak se zase vracel zpátky?
 
 Zdvihl se vítr. Vstal jsem a došel k oknu. Větve praštěly, pod rouškou temnoty venku řádila šumavská flóra a fauna.
@@ -288,3 +302,5 @@ Od Borové Lady se pomalu blížila světla auta. Vůbec mě nenapadlo, že na d
 A pak světla ozářila kočku.
 
 Ležela na asfaltu uprostřed silnice, jako bych ji nikdy nepohřbil.
+
+</section>

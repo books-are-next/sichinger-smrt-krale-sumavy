@@ -3,6 +3,8 @@ title: "KAPITOLA PÁTÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 „Vstávej,“ řekla máma. „Musíš do školy.“
 
 Bylo prvního září, čtvrt na sedm. Přál jsem si, aby za okny zazvonila tramvaj nebo se alespoň nabourala nějaká auta.
@@ -30,6 +32,10 @@ Najít sílu na útěk je asi těžší, než se zdá. Anebo máma nemůže síl
 „Nechceš, abych šla s tebou?“
 
 „Mami, prosím tě, to ne.“
+
+</section>
+
+<section>
 
 Černá kočka ležela v křoví u silnice a já se jí radši obloukem vyhnul.
 
@@ -129,6 +135,10 @@ Kráčet po kraji takové silnice se rovnalo rozsudku smrti.
 
 Tohle bylo srdce Šumavy, které mě mělo zocelit.
 
+</section>
+
+<section>
+
 V dřevěných skříních podél chodby stály nekonečné řady běžek a lyžařských bot. Natáhl jsem si své pražské bačkory a vydal se po schodišti.
 
 Světový rekord ve stavění sněhuláků byl čtyřicet dva – děti na Borové Ladě jich dokázaly postavit třicet jedna. S fotkami všech jednatřiceti nerekordních sněhuláků jsem se seznámil cestou do prvního patra, kde byla třída, už skoro zaplněná dětmi.
@@ -148,6 +158,10 @@ Pomalu jsem si začal připouštět jedinou možnost – první lavici přímo 
 „Nemám žádný žížaly.“
 
 „O velký přestávce je z tebe stejně vytluču,“ oznámil mi a pak zazvonilo na mou první hodinu v nové škole.
+
+</section>
+
+<section>
 
 Paní učitelka měla nakrátko ostříhané tmavohnědé vlasy. Byla štíhlá a opálená, jako by celé léto strávila plaváním v moři.
 
@@ -236,3 +250,5 @@ Ale jestli uteču, budu si připadat jako zbabělec.
 Sedl jsem si zdrceně do lavice a poslouchal, jak zvoní na druhou hodinu.
 
 Byla to hodina, po které měl nastat můj konec.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA DEVÁTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Táta odjížděl do práce až v devět, a tak jsme snídali všichni dohromady, jako v Praze.
 
 Táta se přestal holit a začal nosit zelené kalhoty, košile a kabáty. Vypadal jako schwarzenberský hajný z poloviny osmnáctého století, který osidluje Šumavu.
@@ -79,6 +81,10 @@ Táta se na mě podezíravě podíval, ale kupodivu mou vyhýbavou odpověď nij
 
 „To jsem rád, aspoň ti ho nemusím kupovat,“ zvedl se od stolu a poplácal mě po zádech.
 
+</section>
+
+<section>
+
 Až ve dveřích autobusu jsem si vzpomněl, že nemám průkazku a že jsem pro její vyřízení vůbec nic neudělal. Řidiči to nevadilo, poslouchal rádio a nadával na Spartu, která prohrála se Žilinou a ještě se vytahovala, jaký solidní výkon předvedla.
 
 „Ty zatracený Pražáci si asi myslí, že tady na horách jsme všichni úplně slepí,“ rozčiloval se.
@@ -98,6 +104,10 @@ Modrá fólie zakrývala asi dvacetimetrový bazén. Za ním se rozkládal asfal
 Prosklená přední stěna nabízela pohled na dřevěné schodiště tak naleštěné, jako by se o něj staralo tisíc zaměstnanců. Vsadím se, že když jste po něm v noci scházeli do kuchyně, ani jednou nevrzlo.
 
 Na takovém schodišti nebylo možné přesvědčit nějaké dítě, že duchové existují.
+
+</section>
+
+<section>
 
 Miklosz dorazil do školy minutu před zvoněním a dělal, že nevidí nic jiného než mě, stejně jako já předstíral, že v téhle třídě neexistuju.
 
@@ -121,6 +131,10 @@ Na Facebooku nebylo nic, znovu jsem zkusil ICQ.
 
 Marně.
 
+</section>
+
+<section>
+
 Druhou hodinu se paní učitelka zastavila u mé lavice. „Tomáši, asi jsem ti zapomněla říct, že se dnes odpoledne účastníme hasičské soutěže. Daniel má pochroumané koleno, a tak místo něj budeš soutěžit ty. S Terezou.“
 
 „Dobře,“ řekl jsem, i když se mi do žádné soutěže nechtělo.
@@ -128,6 +142,10 @@ Druhou hodinu se paní učitelka zastavila u mé lavice. „Tomáši, asi jsem 
 „Zatím si přečti, co o loňském kole napsala Tereza.“ Paní učitelka mi podala výtisk školního časopisu _Amos._
 
 Na školní časopis vypadal docela slušně, měl spoustu barevných fotek a obrázků. Naše škola vydávala časopis jeden rok a pak zaniknul.
+
+</section>
+
+<section>
 
 > _HASIČSKÁ SOUTĚŽ_
 
@@ -143,9 +161,17 @@ Na školní časopis vypadal docela slušně, měl spoustu barevných fotek a o
 
 > _Tereza Urmanová_
 
+</section>
+
+<section>
+
 Tereza do časopisu napsala spoustu článků: _Jak jsme chytali ptáčky s panem Walterem, Jak jsme si ve škole hráli na Karla Klostermanna, Jak jsme nocovali ve škole_ a všechny se mi docela líbily.
 
 Na poslední stránce časopisu byla přání Ježíškovi.
+
+</section>
+
+<section>
 
 > _Milý Ježíšku._
 
@@ -162,6 +188,10 @@ Na poslední stránce časopisu byla přání Ježíškovi.
 > _Já bych chtěl telefon nokiji a rádijo na cédečka, kombinezu, tlusté fiksi, tanka a auto_
 
 > _Ahoj Páťa_
+
+</section>
+
+<section>
 
 Dočetl jsem přání přesně v okamžiku, kdy do třídy vstoupila starší paní.
 
@@ -201,7 +231,15 @@ Jeho táta byl Maďar, nemluvil česky, hrozně pil a ještě to odpoledne za m
 
 Pak jsem jednou odpoledne, to už děti odešly domů, našla na okně u jeho lavice vzkaz:
 
+</section>
+
+<section>
+
 __Jdu se utopit k jezírku.__
+
+</section>
+
+<section>
 
 Nazula jsem si boty, vběhla mezi stromy a našla Imrého, jak sedí na břehu a dívá se na černou vodu lesního jezírka. Vzala jsem ho za ruku a odvedla do školy.
 
@@ -238,3 +276,5 @@ Paní Běhounová se na nás usmála z místa, kde pětatřicet let stála a d
 „Mějte se hezky. A všem vám držím palce, abyste konečně postoupili do druhého kola hasičské soutěže.“
 
 Zdvihla ruku, jako by nás posílala ven – ale já viděl, že se jí nechce loučit. Možná tu každý rok o prázdninách stojí, v opuštěných lavicích vidí všechny svoje žáky a doufá, že se Imré jednoho dne objeví ve dveřích a řekne jí moc pěknou češtinou, že se má pořád líp a líp.
+
+</section>

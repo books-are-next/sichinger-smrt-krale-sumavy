@@ -3,6 +3,8 @@ title: "KAPITOLA OSMÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Táta poprvé slyšel o filmu _Král Šumavy,_ když mu bylo deset a chodil do školy ve Vimperku. Soudružka učitelka vykládala učivo a najednou zjistila, že tátův spolužák usnul na lavici s hlavou položenou na penále. Jmenoval se Marian Penzesz a jeho táta byl známý vimperský střelmistr, který pro lesy odstřeloval dynamitem pařezy, se kterými si lakatoše nevěděly rady. Kluci ze třídy měli pana Penzesze rádi, protože jim občas v lese předváděl, co dynamit s pařezy dokáže.
 
 _Jak to, že tu spíš_, _Mariane?! V kolik jsi šel do postele?_
@@ -55,11 +57,23 @@ Napadlo mě, že na sledování _Krále Šumavy_ to je jedno z nejlepších osv
 
 A seděl jsem jen kousek od Chalupské slati, kterou přecházel Kilián Nowotný.
 
+</section>
+
+<section>
+
 Film začíná v mlze a dešti vrčením telefonních drátů na silnici na Kvildu. Všechno se v něm matně leskne, jako když o prázdninách celé dny prší.
 
 Jsou režiséři, kteří umí natočit filmy, jako by je celé napustili v nějaké emulzi. S Janisem jsme viděli v kině Oko _Twin Peaks – Ohni, se mnou pojď_ a oba jsme cítili, že je o elektřině, o drátech, ze kterých srší jiskry. Všechno, na co jsme cestou z kina sáhli, vydávalo slabé elektrické impulzy a my po každé ráně křičeli:
 
+</section>
+
+<section>
+
 __Ohni, se mnou pojď! Ohni, se mnou pojď!__
+
+</section>
+
+<section>
 
 A přesně takový je i _Král Šumavy,_ vyrobený z tajemné prapodivné látky, na kterou něco ve vás odmítá zapomenout. Je to film o lese, slatinách a tajných stezkách, které vedou jen na jednu stranu – do tajemné vzdálené země, která se jmenuje Bavorsko.
 
@@ -159,11 +173,19 @@ Nakonec se ukázalo, že hlavním převaděčem nebyl Kilián, ale polesný Pale
 
 Podal mi novinový výstřižek:
 
+</section>
+
+<section>
+
 > _S DVAADVACETI BROKY V PLICÍCH SE HAJNÝ PALEČEK VRÁTIL DO SLUŽBY_
 
 > _Hajný Paleček se nedal v sušické nemocnici udržet a 24. listopadu 1937 odešel bez souhlasu lékařů ke svému lesu na Březníku, k ženě a dětem._
 
 > _Případů, kdy bavorští pytláci pronikají do našich, českých lesů, neustále přibývá. Muži zelené krve mají v těchto končinách těžkou službu. Hajný Walter Paleček se musel z místa, kde ho pytlák postřelil, odplazit ve sněhu celé čtyři kilometry až ke své hájence na Březníku. Na doktora, který dorazil z Kvildy, čekal celý den._
+
+</section>
+
+<section>
 
 „Už chápeš, proč se další bídák, hned po Kiliánovi, musel jmenovat Paleček? Jeho sestra ještě žije ve Vimperku. Paní učitelka Pelešková, možná tě učila.“
 
@@ -215,6 +237,10 @@ Tereza se znovu zamračila. Dnešní odpoledne si určitě představovala jinak.
 
 „Kam já ten jeho článek dal? A příště zase přijď. Ale sušenky si chroupej doma,“ loučil se se mnou děda.
 
+</section>
+
+<section>
+
 Cesta domů od Studeného potoka se vinula mezi pastvinou a slatí. Tereza kopala do všech kamínků, které na asfaltu našla.
 
 „To, co říkal tvůj děda, bylo vážně zajímavý.“
@@ -246,3 +272,5 @@ Tereza chvilku nic neříkala. „Takže je to mrtvá duše?“
 „Co zejtra po škole?“
 
 „Ještě uvidím,“ vyhnul jsem se jasné odpovědi, protože mi začínalo docházet, co to znamená mít široko daleko jen jediného vrstevníka.
+
+</section>
