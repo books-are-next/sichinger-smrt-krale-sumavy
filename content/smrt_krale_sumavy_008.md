@@ -3,6 +3,8 @@ title: "KAPITOLA DRUHÁ Pondělí 30\\.\_srpna"
 contentType: prose
 ---
 
+<section>
+
 Hned u Zbraslavi jsem usnul. Když jsem se probudil, míjeli jsme bránu bývalých vimperských kasáren. A pak za oknem ubíhaly jen lesy plné smrků a další a další smrky ležely na zemi – z jedné strany byla jejich kůra úplně hladká a z druhé pokrytá lišejníkem.
 
 „Támhle před lety stával posed,“ řekl táta. Narodil se na samotě u Vimperka, ale jeho rodný dům zbourali, když stavěli silnici na Strážný, takže jsme do Vimperka nejezdili.
@@ -23,11 +25,27 @@ Co bychom taky dělali s letištěm.
 
 V tom okamžiku mi zapípal mobil – přišla mi esemeska od Janise.
 
+</section>
+
+<section>
+
 _Dokazu proniknout do hitparady!_
+
+</section>
+
+<section>
 
 Janis k nám přišel loni. Do té doby jsem ve škole žádného kamaráda neměl. Spolužáci přemýšleli jen o tom, jaké si založí firmy a jak vydělají miliony. Třeba Vytloukal skupoval každé ráno před vyučováním tatranky za šest korun a prodával je za osm. Na lavici si umístil ceduli:
 
+</section>
+
+<section>
+
 VELKOOBCHOD VYTLOUKAL
+
+</section>
+
+<section>
 
 Když někdo prošel kolem lavice a tatranku nekoupil, bral to jako chybu ve výběru sortimentu. _Tak ty bys radši oříškový? Nebo mléčný? Jenže ty budou za devět!_
 
@@ -35,7 +53,15 @@ Janis byl jiný – zajímala ho muzika, počítače a filmy. Byl to jediný k
 
 A teď jsem měl i důkaz.
 
+</section>
+
+<section>
+
 _A jak se do ty hitparady dostanem?_
+
+</section>
+
+<section>
 
 Opustili jsme Nové Hutě. Po levé straně silnice se až k zalesněným kopcům táhly pastviny obehnané dřevěnými ohradami. Napravo jsme měli mělké rovné údolí se spoustou borovic a bříz.
 
@@ -49,9 +75,17 @@ A pak jsme vjeli do vesnice, která se jmenovala Nový Svět.
 
 Nechtěl jsem si představovat žádné hájenky, už proto, že jsem si zapomněl dobít baterky do empétrojky a nemohl jsem dávat najevo, jak mě tátův výklad štve.
 
+</section>
+
+<section>
+
 > _Napisu kratky skript ve starym skriptovacim jazyce HyperText PreProcessor. Pouzival se pro webove stranky na ruznych platformach. Pri kazdem spusteni prida skript jeden hlas._
 
 > _Pak do nej nastavim smycku, aby se cely postup opakoval, a program znovu spustim._
+
+</section>
+
+<section>
 
 Páni! S takovým vychytaným prográmkem můžeme obsadit nejen první místo hitparády, ale rovnou všechna v první stovce!
 
@@ -61,11 +95,27 @@ Ne nadarmo se naše kapela jmenovala _Chytrá bomba._
 
 „Poslední mši tu farář sloužil v roce 1950 a pak kostel nechali komunisti zavřít. Rozpadal se dvacet let, pak ho srovnali se zemí a místo něj postavili tyhle jezeďácký nestvůry.“
 
+</section>
+
+<section>
+
 _Vsechno je v pytli. Zapomen na to._
+
+</section>
+
+<section>
 
 _Ten program nefunguje?_
 
+</section>
+
+<section>
+
 _Funguje. Ale ja se vracim do Recka. Natrvalo._
+
+</section>
+
+<section>
 
 „To ne!“ vykřikl jsem.
 
@@ -96,3 +146,5 @@ Sáhl jsem po telefonu. Čárky příjmu signálu na displeji se roztančily a 
 Schoulil jsem se na sedadle. Co tady budu bez signálu dělat? A co si bez Janise počnu ve škole?
 
 Byl jsem zase úplně sám, kolem mě se táhly kopce, které zabíjely signál, a mě i Janise rodiče převáželi někam, kde jsme vůbec nechtěli být.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA JEDENÁCTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Stoupali jsme do prudkého kopce, dokud jsme se nedostali na lesní cestu. Slunce pražilo a já si vzpomněl, že jak jsem na obědě pospíchal, zapomněl jsem se napít, a teď jsem dostal pořádnou žízeň.
 
 Taky nás hasiči mohli aspoň postříkat!
@@ -178,3 +180,5 @@ Další čtyři kilometry jsme se potáceli rozježděnými lesními cestami, me
 Rozhlédl jsem se do všech stran. Po Mikloszovi nebyla nikde ani stopa.
 
 Došli jsme ke dveřím a Tereza zaklepala.
+
+</section>

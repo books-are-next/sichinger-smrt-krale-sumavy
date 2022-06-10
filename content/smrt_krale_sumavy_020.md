@@ -3,6 +3,8 @@ title: "KAPITOLA ČTRNÁCTÁ Pátek 3\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Za Terezinou chalupou ještě pořád ležela hromada starých matrací, krabic a rozlámaných dvířek.
 
 „Paša to ještě neodvezl?“ divil jsem se.
@@ -43,7 +45,15 @@ Kuchyně u Terezy dnes čerstvým koláčem bohužel nevoněla. V křesle u o
 
 „Koukejte, co mám!“ zdvihl knihu a my si přečetli její název.
 
+</section>
+
+<section>
+
 __Kaltenbach – Heimat im Böhmerwald__
+
+</section>
+
+<section>
 
 „Konečně mi přišlo druhý vydání, to první je úplně rozebraný! Tohle si vydali odsunutý Němci v Röhrnbachu s mapou všech domů na Nových Hutích z roku 1936. A je tu jediná fotka Kiliána, která existuje.“
 
@@ -78,6 +88,10 @@ Nadechl jsem se ke lži a taky si připadal jako zloděj.
 „Do Českých Žlebů,“ řekl jsem.
 
 „Máš pořádný boty? Když na Českejch Žlebech padá rosa, maj Pražáci strach, že se z hor valí povodeň!“ smál se děda a zdálo se, že brigádě věří stejně jako mí rodiče.
+
+</section>
+
+<section>
 
 Domů jsem se vrátil v půl šesté. Táta byl v práci a máma dávala dohromady seznam věcí, které si chtěla přivézt z Prahy.
 
@@ -300,3 +314,5 @@ Teď jsem měl poprvé pocit, že ho znám. Mohla za to básnička o rašelině
 A já byl rád, že v jeho hlavě nepřebývala cizí ženská, jen máma, já, Běhy a Kilián, Král Šumavy.
 
 Tu noc mi ve tmě na kraji postele připadal táta poprvé jako kluk, který potřeboval najít místo, kam zakopal poklad, který může člověk schovat jen doma a nikde jinde na světě.
+
+</section>

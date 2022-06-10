@@ -3,6 +3,8 @@ title: "KAPITOLA DESÁTÁ Čtvrtek 2\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Oběd začínal už v jedenáct, měli jsme buchtičky se šodó, které v Praze sedmáci rvali do plastových lahví a používali v šatnách jako účinné ruční bomby.
 
 Na hřišti stálo osm autobusů základních škol a celý prostor až k řece a k silnici zaplňovaly lesklé hasičské vozy.
@@ -102,6 +104,10 @@ Nic z toho, co mi táta vyprávěl, nebyla pravda.
 Co když všechno, co říkal mámě a mně, byla jen pustá lež?
 
 Co když to všechno byla jenom jeho propaganda?
+
+</section>
+
+<section>
 
 Borová Lada ani letos nepostoupila ze základního kola hasičské soutěže. Kvůli paní učitelce mi to bylo líto, ale nevypadala zklamaně, ostatně co taky mohla čekat, když v Borové Ladě žilo tři sta lidí (z toho padesát Holanďanů), zatímco v Prachaticích třináct tisíc.
 
@@ -238,3 +244,5 @@ Historku o vojákovi jsem poslouchal jen na půl ucha, protože mi docházelo, 
 „Vám,“ řekl jsem bez rozpaků.
 
 Pan Stuchlý se zasmál: „No, to mi teda pomůže,“ a zastavil nám na kraji Nových Hutí.
+
+</section>

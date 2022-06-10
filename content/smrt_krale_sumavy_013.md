@@ -3,6 +3,8 @@ title: "KAPITOLA SEDMÁ Středa 1\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 S nosem ještě zaneseným šňupacím tabákem jsem se vydal na oběd. Pobrali jsme batohy a paní družinářka nás odvedla oklikou přes zaniklou louku u řeky.
 
 Tentokrát jsem se ale neloudal jako poslední. Všichni se tlačili kolem mě.
@@ -27,7 +29,15 @@ Kuchařky se na mě usmívaly a jedna po druhé vykládaly, jaké mám štěst�
 
 Nacpal jsem se plněnými knedlíky se zelím, až mi břicho praskalo, protože jsem hodlal kuchařky přesvědčit, že na zelí jsou opravdové odbornice. U stolu jsem seděl s Terezou a Danielem, kteří probírali, jak v červnu vyrazíme na školní výlet. Nechtěl jsem jim kazit radost tím, že v červnu budu zpátky v Praze.
 
+</section>
+
+<section>
+
 Miklosz seděl za námi a mračil se, jako by kousal sto let starý knäcke­brot.
+
+</section>
+
+<section>
 
 Naproti autobusové zastávce na Borové Ladě stály dva penziony – _Borováček_ a _Kavaliér_ – a kousek od zastávky čekaly dřevěné lavice restaurace _U_ _Černého vlka,_ ve které v pondělí v noci táta zpečetil můj osud.
 
@@ -131,6 +141,10 @@ Otočil jsem se na sedadle. Miklosz naštěstí nebyl v dohledu.
 
 Autobus vyrazil opačným směrem, než ležel můj nový domov.
 
+</section>
+
+<section>
+
 Na kopci nad Borovou Ladou stály vedle silnice tři domy. Dva dělníci vytahovali ke komínu žebřík a já si znovu vzpomněl na krabičku s fotkou, která mi přistála na střeše.
 
 „Znáš Tomáše Holýho?“ zeptal jsem se.
@@ -205,9 +219,21 @@ Terezina maminka byla na rozdíl od Terezy drobná a světlovlasá. Její rybí
 
 Tereza popuzeně odstrčila židli a šla ke schodům.
 
+</section>
+
+<section>
+
 Terezin pokoj byl mnohem větší než špeluňka, ve které jsem musel přebývat já. Pod oknem stál světlý psací stůl s posuvnou lampou, vedle ustlaná postel s plyšovým zajícem, medvědem a liškou. Na stěně visel ohromný plakát Indiany Jonese s Harrisonem Fordem a jeho filmovým otcem Seanem Connerym:
 
+</section>
+
+<section>
+
 _INDIANA JONES UND DER LETZTE KREUZZUG_
+
+</section>
+
+<section>
 
 „Trojku mám taky nejradši,“ prohlásil jsem.
 
@@ -275,11 +301,27 @@ Tereza za sebou zavřela dveře a já se pustil do krabice. Našel jsem filmy j
 
 Zato jsem za krabicí objevil sešit s tvrdými deskami, nadepsaný dětským písmem:
 
+</section>
+
+<section>
+
 _POLODENÍK_
+
+</section>
+
+<section>
 
 > _Někdy máte chuť si psát deník, ale vždycky to vydrží tak týden a najednou ani nevíte, že jste si ho psali. Jenže když vám někdo dá krásný sešit a pořádnou tužku, musíte toho nějak využít, takže si jednou za týden do toho sešitu něco načmáráte a pak všem říkáte, že máte deník. Problém je, že to není deník, ale týdeník nebo polodeník. Navíc, když celý den nic neděláte, co si do něj máte napsat? A co teprve když nic neděláte celý život? To si pak musíte zapisovat blbost za blbostí. Myslím, že deník mají buď šprti, nebo lidi, kteří se snaží bejt šprti, ale když máte polodeník, jste větší hrdina. Proto si ode dneška budu psát polodeník a bude ze mě hrdina._
 
+</section>
+
+<section>
+
 Vzadu za polodeníkem ležel velký složený plakát.
+
+</section>
+
+<section>
 
 > _POZOR, POZOR!_
 
@@ -288,6 +330,10 @@ Vzadu za polodeníkem ležel velký složený plakát.
 > _Volná místa jsou: kytara, buben, flétna._
 
 > _Kdo chce hrát, ať přijde na hřiště v Borové Ladě v pátek v 16.00._
+
+</section>
+
+<section>
 
 Vzpomněl jsem si na plakáty, které jsme s Janisem lepili kolem školy, a natáhl Terezin plakát před sebe. Zkoušel jsem si představit, že ho čtu vyvěšený na ulici, jenže něco mi na něm nehrálo.
 
@@ -398,3 +444,5 @@ Tereza se odtáhla do kouta kanape. Děda se zabořil do křesla a já si sedl 
 Děda neodpověděl.
 
 A tak začalo jedenácté promítání _Krále Šumavy_ v mém životě.
+
+</section>

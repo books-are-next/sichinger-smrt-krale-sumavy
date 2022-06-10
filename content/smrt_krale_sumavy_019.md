@@ -3,6 +3,8 @@ title: "KAPITOLA TŘINÁCTÁ Pátek 3\\.\_září"
 contentType: prose
 ---
 
+<section>
+
 Vyhlédl jsem do ranního světla. Černá kočka ležela pod šípkovým keřem vedle silnice. Mohl jsem ji pohřbívat třeba dvakrát denně, cestu zpátky na svět si stejně našla.
 
 Táta se oholil a slušně oblékl, nejspíš ho čekala schůzka s lidmi, kteří chtějí po Šumavě hledat spousty schovaných věcí, a nepřejí si, aby je schovával nějaký hadrník.
@@ -143,6 +145,10 @@ U táty jsem všechno prohrál. Existovala jediná cesta, jak to napravit.
 
 A černá kočka ležela vedle cesty.
 
+</section>
+
+<section>
+
 Tereza si na zastávce hrála s větvičkami. Když jsem tu čekal na autobus já, žádné větvičky jsem neviděl. Tereza si všechno, co potřebovala k životu, nejspíš nosila s sebou.
 
 Byla takové dítě-hračkářství.
@@ -243,6 +249,10 @@ Sedl jsem si a průkazku okamžitě pustil z hlavy, protože jsem musel myslet
 
 Mohl jsem být úplně v klidu – byl jsem z toho venku.
 
+</section>
+
+<section>
+
 Miklosz se choval, jako bych už neexistoval. Než zazvonilo, vyhlédl jsem z okna. Silnice z Borové Lady byla opuštěná, žádný náklaďák nekřižoval Šumavu s nákladem čerstvě nařezaných kmenů.
 
 Netrpělivě jsem vyhlížel z okna a těšil se, až s Terezou vyrazím za lidmi, kteří znávali Kiliána Nowotného.
@@ -255,6 +265,10 @@ Měli jsme své tajemství.
 
 A když s někým sdílíte tajemství, patříte najednou do jiného světa.
 
+</section>
+
+<section>
+
 Paní učitelka na sobě měla šaty barvy čerstvě vyloupnutého hrášku. Odložila třídnici na stolek a zaraženě pohlédla na moji modřinu. „To ti udělal Miklosz?“
 
 „Ne,“ řekl jsem.
@@ -266,6 +280,10 @@ Miklosz vstal a mračil se přitom jako politik, na kterého někdo vyhrabal po
 „Mikloszi, včera jsem poslala e-mail docentu Šoušovi. Docent Šouša je náš největší odborník na hospodářské reformy ve třicátých letech.
 
 Tohle mi odepsal:
+
+</section>
+
+<section>
 
 > _Vážená paní učitelko,_
 
@@ -300,3 +318,5 @@ Zmlátil mě jak psa a nakonec se dozví, že je všechno v pořádku?
 A co by se asi stalo, kdyby se Miklosz stal ředitelem národního parku? Udělal by ze školy exekutorský úřad a ze školáků poslíčky s obsílkami?
 
 „Sedni si a už nikoho nemlať,“ uzavřela svůj proslov paní učitelka.
+
+</section>
