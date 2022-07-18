@@ -1,0 +1,549 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Smrt Krále Šumavy",
+  "author": "Martin Sichinger",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "sichinger-smrt-krale-sumavy-919ae72",
+  "revision": "919ae72",
+  "readingOrder": [
+    "promo.html",
+    "smrt_krale_sumavy_005.html",
+    "smrt_krale_sumavy_006.html",
+    "smrt_krale_sumavy_007.html",
+    "smrt_krale_sumavy_008.html",
+    "smrt_krale_sumavy_009.html",
+    "smrt_krale_sumavy_010.html",
+    "smrt_krale_sumavy_011.html",
+    "smrt_krale_sumavy_012.html",
+    "smrt_krale_sumavy_013.html",
+    "smrt_krale_sumavy_014.html",
+    "smrt_krale_sumavy_015.html",
+    "smrt_krale_sumavy_016.html",
+    "smrt_krale_sumavy_017.html",
+    "smrt_krale_sumavy_018.html",
+    "smrt_krale_sumavy_019.html",
+    "smrt_krale_sumavy_020.html",
+    "smrt_krale_sumavy_021.html",
+    "smrt_krale_sumavy_022.html",
+    "smrt_krale_sumavy_023.html",
+    "smrt_krale_sumavy_024.html",
+    "smrt_krale_sumavy_025.html",
+    "smrt_krale_sumavy_026.html",
+    "smrt_krale_sumavy_027.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 18 2022 21:04:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658178253720
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "smrt_krale_sumavy_005.html",
+      "toc": []
+    },
+    {
+      "title": "Smrt Krále Šumavy",
+      "file": "smrt_krale_sumavy_005.html",
+      "words": 6,
+      "chars": 38,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "smrt_krale_sumavy_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrt Krále Šumavy",
+      "file": "smrt_krale_sumavy_006.html",
+      "words": 13,
+      "chars": 80,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "smrt_krale_sumavy_005.html",
+      "next": "smrt_krale_sumavy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA PRVNÍ Pondělí 30. srpna",
+      "file": "smrt_krale_sumavy_007.html",
+      "words": 784,
+      "chars": 4378,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 3,
+      "prev": "smrt_krale_sumavy_006.html",
+      "next": "smrt_krale_sumavy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA PRVNÍ Pondělí 30. srpna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DRUHÁ Pondělí 30. srpna",
+      "file": "smrt_krale_sumavy_008.html",
+      "words": 781,
+      "chars": 4543,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 4,
+      "prev": "smrt_krale_sumavy_007.html",
+      "next": "smrt_krale_sumavy_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DRUHÁ Pondělí 30. srpna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA TŘETÍ Pondělí 30. srpna",
+      "file": "smrt_krale_sumavy_009.html",
+      "words": 2102,
+      "chars": 12102,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 5,
+      "prev": "smrt_krale_sumavy_008.html",
+      "next": "smrt_krale_sumavy_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA TŘETÍ Pondělí 30. srpna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA ČTVRTÁ Úterý 31. srpna",
+      "file": "smrt_krale_sumavy_010.html",
+      "words": 2080,
+      "chars": 11863,
+      "ideas": 144,
+      "role": "chapter",
+      "order": 6,
+      "prev": "smrt_krale_sumavy_009.html",
+      "next": "smrt_krale_sumavy_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA ČTVRTÁ Úterý 31. srpna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA PÁTÁ Středa 1. září",
+      "file": "smrt_krale_sumavy_011.html",
+      "words": 1732,
+      "chars": 10100,
+      "ideas": 118,
+      "role": "chapter",
+      "order": 7,
+      "prev": "smrt_krale_sumavy_010.html",
+      "next": "smrt_krale_sumavy_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA PÁTÁ Středa 1. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA ŠESTÁ Středa 1. září",
+      "file": "smrt_krale_sumavy_012.html",
+      "words": 3169,
+      "chars": 18180,
+      "ideas": 154,
+      "role": "chapter",
+      "order": 8,
+      "prev": "smrt_krale_sumavy_011.html",
+      "next": "smrt_krale_sumavy_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA ŠESTÁ Středa 1. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA SEDMÁ Středa 1. září",
+      "file": "smrt_krale_sumavy_013.html",
+      "words": 2784,
+      "chars": 15885,
+      "ideas": 199,
+      "role": "chapter",
+      "order": 9,
+      "prev": "smrt_krale_sumavy_012.html",
+      "next": "smrt_krale_sumavy_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA SEDMÁ Středa 1. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA OSMÁ Středa 1. září",
+      "file": "smrt_krale_sumavy_014.html",
+      "words": 2562,
+      "chars": 15027,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 10,
+      "prev": "smrt_krale_sumavy_013.html",
+      "next": "smrt_krale_sumavy_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA OSMÁ Středa 1. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DEVÁTÁ Čtvrtek 2. září",
+      "file": "smrt_krale_sumavy_015.html",
+      "words": 2510,
+      "chars": 14532,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 11,
+      "prev": "smrt_krale_sumavy_014.html",
+      "next": "smrt_krale_sumavy_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DEVÁTÁ Čtvrtek 2. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DESÁTÁ Čtvrtek 2. září",
+      "file": "smrt_krale_sumavy_016.html",
+      "words": 2283,
+      "chars": 13590,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 12,
+      "prev": "smrt_krale_sumavy_015.html",
+      "next": "smrt_krale_sumavy_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DESÁTÁ Čtvrtek 2. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA JEDENÁCTÁ Čtvrtek 2. září",
+      "file": "smrt_krale_sumavy_017.html",
+      "words": 1184,
+      "chars": 6912,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 13,
+      "prev": "smrt_krale_sumavy_016.html",
+      "next": "smrt_krale_sumavy_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA JEDENÁCTÁ Čtvrtek 2. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DVANÁCTÁ Čtvrtek 2. září",
+      "file": "smrt_krale_sumavy_018.html",
+      "words": 2313,
+      "chars": 13544,
+      "ideas": 151,
+      "role": "chapter",
+      "order": 14,
+      "prev": "smrt_krale_sumavy_017.html",
+      "next": "smrt_krale_sumavy_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DVANÁCTÁ Čtvrtek 2. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA TŘINÁCTÁ Pátek 3. září",
+      "file": "smrt_krale_sumavy_019.html",
+      "words": 1864,
+      "chars": 10824,
+      "ideas": 150,
+      "role": "chapter",
+      "order": 15,
+      "prev": "smrt_krale_sumavy_018.html",
+      "next": "smrt_krale_sumavy_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA TŘINÁCTÁ Pátek 3. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA ČTRNÁCTÁ Pátek 3. září",
+      "file": "smrt_krale_sumavy_020.html",
+      "words": 2705,
+      "chars": 15314,
+      "ideas": 156,
+      "role": "chapter",
+      "order": 16,
+      "prev": "smrt_krale_sumavy_019.html",
+      "next": "smrt_krale_sumavy_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA ČTRNÁCTÁ Pátek 3. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA PATNÁCTÁ Pátek 3. září",
+      "file": "smrt_krale_sumavy_021.html",
+      "words": 2462,
+      "chars": 14366,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 17,
+      "prev": "smrt_krale_sumavy_020.html",
+      "next": "smrt_krale_sumavy_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA PATNÁCTÁ Pátek 3. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA ŠESTNÁCTÁ Sobota 4. září",
+      "file": "smrt_krale_sumavy_022.html",
+      "words": 2342,
+      "chars": 14073,
+      "ideas": 172,
+      "role": "chapter",
+      "order": 18,
+      "prev": "smrt_krale_sumavy_021.html",
+      "next": "smrt_krale_sumavy_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA ŠESTNÁCTÁ Sobota 4. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA SEDMNÁCTÁ Sobota 4. září",
+      "file": "smrt_krale_sumavy_023.html",
+      "words": 1420,
+      "chars": 8575,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 19,
+      "prev": "smrt_krale_sumavy_022.html",
+      "next": "smrt_krale_sumavy_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA SEDMNÁCTÁ Sobota 4. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA OSMNÁCTÁ Sobota 4. září",
+      "file": "smrt_krale_sumavy_024.html",
+      "words": 2443,
+      "chars": 14451,
+      "ideas": 146,
+      "role": "chapter",
+      "order": 20,
+      "prev": "smrt_krale_sumavy_023.html",
+      "next": "smrt_krale_sumavy_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA OSMNÁCTÁ Sobota 4. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DEVATENÁCTÁ Sobota 4. září",
+      "file": "smrt_krale_sumavy_025.html",
+      "words": 2319,
+      "chars": 13353,
+      "ideas": 169,
+      "role": "chapter",
+      "order": 21,
+      "prev": "smrt_krale_sumavy_024.html",
+      "next": "smrt_krale_sumavy_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DEVATENÁCTÁ Sobota 4. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DVACÁTÁ Neděle 5. září",
+      "file": "smrt_krale_sumavy_026.html",
+      "words": 1950,
+      "chars": 11207,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 22,
+      "prev": "smrt_krale_sumavy_025.html",
+      "next": "smrt_krale_sumavy_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DVACÁTÁ Neděle 5. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA DVACÁTÁ PRVNÍ Neděle 5. září",
+      "file": "smrt_krale_sumavy_027.html",
+      "words": 3255,
+      "chars": 18571,
+      "ideas": 244,
+      "role": "chapter",
+      "order": 23,
+      "prev": "smrt_krale_sumavy_026.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA DVACÁTÁ PRVNÍ Neděle 5. září",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 138,
+      "chars": 898,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "smrt_krale_sumavy_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 45207,
+      "chars": 262442,
+      "ideas": 2860
+    },
+    "chapters": {
+      "words": 45063,
+      "chars": 261508,
+      "ideas": 2841
+    }
+  }
+}
