@@ -10,7 +10,7 @@ meta:
   author: Martin Sichinger
   publisher: Městská knihovna v Praze
   modified: '2021-02-03T00:00:00.000Z'
-  isbn: 80-274-1350-8
+  isbn: 978-80-274-2684-3
   publisherShort: mkp
   contentType: prose
 readingOrder:
