@@ -7,7 +7,7 @@
       "author": "Martin Sichinger",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-02-03T00:00:00.000Z",
-      "isbn": "80-274-1350-8",
+      "isbn": "978-80-274-2684-3",
       "publisherShort": "mkp",
       "contentType": "prose"
     },
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poděkování"
+            "title": "Poděkování",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Poznámka autora"
+            "title": "Poznámka autora",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA PRVNÍ Pondělí 30. srpna"
+            "title": "KAPITOLA PRVNÍ Pondělí 30. srpna",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DRUHÁ Pondělí 30. srpna"
+            "title": "KAPITOLA DRUHÁ Pondělí 30. srpna",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA TŘETÍ Pondělí 30. srpna"
+            "title": "KAPITOLA TŘETÍ Pondělí 30. srpna",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA ČTVRTÁ Úterý 31. srpna"
+            "title": "KAPITOLA ČTVRTÁ Úterý 31. srpna",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_011.md",
@@ -174,8 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA PÁTÁ Středa 1. září"
+            "title": "KAPITOLA PÁTÁ Středa 1. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_012.md",
@@ -187,8 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA ŠESTÁ Středa 1. září"
+            "title": "KAPITOLA ŠESTÁ Středa 1. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_013.md",
@@ -200,8 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA SEDMÁ Středa 1. září"
+            "title": "KAPITOLA SEDMÁ Středa 1. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_014.md",
@@ -213,8 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA OSMÁ Středa 1. září"
+            "title": "KAPITOLA OSMÁ Středa 1. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_015.md",
@@ -226,8 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DEVÁTÁ Čtvrtek 2. září"
+            "title": "KAPITOLA DEVÁTÁ Čtvrtek 2. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_016.md",
@@ -239,8 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DESÁTÁ Čtvrtek 2. září"
+            "title": "KAPITOLA DESÁTÁ Čtvrtek 2. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_017.md",
@@ -252,8 +252,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA JEDENÁCTÁ Čtvrtek 2. září"
+            "title": "KAPITOLA JEDENÁCTÁ Čtvrtek 2. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_018.md",
@@ -265,8 +265,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DVANÁCTÁ Čtvrtek 2. září"
+            "title": "KAPITOLA DVANÁCTÁ Čtvrtek 2. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_019.md",
@@ -278,8 +278,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA TŘINÁCTÁ Pátek 3. září"
+            "title": "KAPITOLA TŘINÁCTÁ Pátek 3. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_020.md",
@@ -291,8 +291,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA ČTRNÁCTÁ Pátek 3. září"
+            "title": "KAPITOLA ČTRNÁCTÁ Pátek 3. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_021.md",
@@ -304,8 +304,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA PATNÁCTÁ Pátek 3. září"
+            "title": "KAPITOLA PATNÁCTÁ Pátek 3. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_022.md",
@@ -317,8 +317,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA ŠESTNÁCTÁ Sobota 4. září"
+            "title": "KAPITOLA ŠESTNÁCTÁ Sobota 4. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_023.md",
@@ -330,8 +330,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA SEDMNÁCTÁ Sobota 4. září"
+            "title": "KAPITOLA SEDMNÁCTÁ Sobota 4. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_024.md",
@@ -343,8 +343,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA OSMNÁCTÁ Sobota 4. září"
+            "title": "KAPITOLA OSMNÁCTÁ Sobota 4. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_025.md",
@@ -356,8 +356,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DEVATENÁCTÁ Sobota 4. září"
+            "title": "KAPITOLA DEVATENÁCTÁ Sobota 4. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_026.md",
@@ -369,8 +369,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DVACÁTÁ Neděle 5. září"
+            "title": "KAPITOLA DVACÁTÁ Neděle 5. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_027.md",
@@ -382,8 +382,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "KAPITOLA DVACÁTÁ PRVNÍ Neděle 5. září"
+            "title": "KAPITOLA DVACÁTÁ PRVNÍ Neděle 5. září",
+            "children": []
           },
           {
             "filename": "smrt_krale_sumavy_028.md",
@@ -668,6 +668,6 @@
       "user": "books-are-next",
       "repo": "sichinger-smrt-krale-sumavy"
     },
-    "generatedAt": 1657186781122
+    "generatedAt": 1658412740062
   }
 }
