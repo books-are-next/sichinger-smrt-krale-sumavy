@@ -203,13 +203,13 @@ V tom okamžiku se u brány objevil muž v tmavém kabátě. Za ruku táhl as
 
 Muž se na mě udiveně podíval. Dítě zvedlo ruku a ukázalo na nás prstem.
 
-„Ja, ja, Geld, natürlich![9](./resources/undefined)“ zavolal Terezin táta. Jeho němčina zněla jako němčina všech Němců, které jsem dnes slyšel. „Er möchte ein neues Computerspiele. Haben Sie eine Tochter?[10](./resources/undefined)“
+„Ja, ja, Geld, natürlich![^9]“ zavolal Terezin táta. Jeho němčina zněla jako němčina všech Němců, které jsem dnes slyšel. „Er möchte ein neues Computerspiele. Haben Sie eine Tochter?[^10]“
 
 „Ja,“ přikývl muž.
 
-„Das ist doch besser als einen Buben zu haben.[11](./resources/undefined)“
+„Das ist doch besser als einen Buben zu haben.[^11]“
 
-„Ja, dass hoffe ich.[12](./resources/undefined)“ Muž se usmál a pokýval hlavou. Dítě se sehnulo k čemusi v trávě a zase se narovnalo.
+„Ja, dass hoffe ich.[^12]“ Muž se usmál a pokýval hlavou. Dítě se sehnulo k čemusi v trávě a zase se narovnalo.
 
 Potom ho jeho otec vzal za ruku a vydali se dál, do ulic Röhrnbachu.
 
@@ -346,13 +346,5 @@ Myslí na mě?
 A k čemu mi to je?
 
 * * *
-
-_[9](./resources/undefined) Ano, ano, peníze, samozřejmě! _Pozn. red.__
-
-_[10](./resources/undefined) Chtěl by novou počítačovou hru. Vy máte dceru? _Pozn. red.__
-
-_[11](./resources/undefined) To je přeci jen lepší než mít kluka. _Pozn. red.__
-
-_[12](./resources/undefined) Ano, to věřím. _Pozn. red.__
-
+[^9]: Ano, ano, peníze, samozřejmě! _Pozn. red._[^10] Chtěl by novou počítačovou hru. Vy máte dceru? _Pozn. red._[^11] To je přeci jen lepší než mít kluka. _Pozn. red._[^12] Ano, to věřím. _Pozn. red._
 </section>

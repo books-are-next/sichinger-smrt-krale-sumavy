@@ -47,7 +47,7 @@ Kiliánův hrob stál ve čtvrté řadě odzdola. Šedivá mramorová deska byla
 
 <section>
 
-__Hier ruhen in Frieden_[3](./resources/undefined)_
+__Hier ruhen in Frieden_[^3]_
 
 </section>
 
@@ -111,7 +111,7 @@ Tereza zavrtěla hlavou a v tom okamžiku vstoupila do brány hřbitova asi pa
 
 Popadli jsme batohy a rozběhli se za ní.
 
-„Entschuldigung, wir sind aus Kaltenbach im Böhmerwald,[4](./resources/undefined)“ řekla Tereza. „Wir suchen die Familie Nowotny.[5](./resources/undefined)“
+„Entschuldigung, wir sind aus Kaltenbach im Böhmerwald,[^4]“ řekla Tereza. „Wir suchen die Familie Nowotny.[^5]“
 
 „Nowotny?“ Žena spustila záplavu německých slov a teprve po drahné chvilce jí došlo, že nejspíš nerozumíme ani slovo.
 
@@ -123,7 +123,7 @@ Popadli jsme batohy a rozběhli se za ní.
 
 „Goldener Steig und denn die Straße Böhmerwald Siedlung Nummer drei. Nowotny Tischerei,“ přeříkávala Tereza a já žasnul, co všechno si dokáže zapamatovat.
 
-„Dort lebt seine Tochter.[6](./resources/undefined)“
+„Dort lebt seine Tochter.[^6]“
 
 „Danke schön,“ poděkovala Tereza.
 
@@ -217,9 +217,9 @@ Tohle je naše poslední šance, pomyslel jsem si a zazvonil.
 
 Ani tentokrát se dveře neotevřely. Zato mluvítko vedle vchodu zapraskalo.
 
-„Was wünschen Sie?[7](./resources/undefined)“ zeptal se ženský hlas.
+„Was wünschen Sie?[^7]“ zeptal se ženský hlas.
 
-„Guten Tag, wir sind aus Kaltenbach und wir suchen jemand von Nowotny Familie.[8](./resources/undefined)“
+„Guten Tag, wir sind aus Kaltenbach und wir suchen jemand von Nowotny Familie.[^8]“
 
 Následovala záplava slov tak německých, že mě z nich už začínala bolet hlava.
 
@@ -236,17 +236,5 @@ Potom mluvítko znovu zapraskalo. Ale tentokrát se ozval starší mužský hlas
 „Hledáte Kiliána Nowotného?“
 
 * * *
-
-_[3](./resources/undefined) Zde odpočívají v pokoji. _Pozn. red.__
-
-_[4](./resources/undefined) Promiňte, my jsme z Kaltenbachu na Šumavě. _Pozn. red.__
-
-_[5](./resources/undefined) Hledáme rodinu Nowotných. _Pozn. red.__
-
-_[6](./resources/undefined) Tam žije jeho dcera. _Pozn. red.__
-
-_[7](./resources/undefined) Co si přejete? _Pozn. red.__
-
-_[8](./resources/undefined) Dobrý den, my jsem z Kaltenbachu a hledáme někoho z rodiny Nowotných. _Pozn. red.__
-
+[^3]: Zde odpočívají v pokoji. _Pozn. red._[^4] Promiňte, my jsme z Kaltenbachu na Šumavě. _Pozn. red._[^5] Hledáme rodinu Nowotných. _Pozn. red._[^6] Tam žije jeho dcera. _Pozn. red._[^7] Co si přejete? _Pozn. red._[^8] Dobrý den, my jsem z Kaltenbachu a hledáme někoho z rodiny Nowotných. _Pozn. red._
 </section>

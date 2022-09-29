@@ -143,7 +143,7 @@ Přímo pod nimi stála červená tyč autobusové zastávky i s jízdním ř�
 
 „To je jako _Schoolday_! Hele, a jak se řekne hranice?“
 
-„_Grenze_ a Potřebuju pomoc se řekne _Ich brauche Geld_[1](./resources/undefined)_._“
+„_Grenze_ a Potřebuju pomoc se řekne _Ich brauche Geld_[^1]_._“
 
 „Ich brauche Geld,“ opakoval jsem. „Říkám to dobře?“
 
@@ -339,14 +339,10 @@ Byli jsme v nejnižším bodě údolí, na samém okraji Röhrnbachu. Po chodn�
 
 „Grüß Gott!“
 
-„Entschuldigen Sie bitte, wo ist der Friedhof?[2](./resources/undefined)“ zeptala se Tereza.
+„Entschuldigen Sie bitte, wo ist der Friedhof?[^2]“ zeptala se Tereza.
 
 Paní se usmála, jako by jí místo, kde spí mrtví, přinášelo radost, a ukázala nahoru, k baňaté věži kostela.
 
 * * *
-
-_[1](./resources/undefined) Potřebuju peníze. _Pozn. red.__
-
-_[2](./resources/undefined) Promiňte prosím, kde je hřbitov? _Pozn. red.__
-
+[^1]: Potřebuju peníze. _Pozn. red._[^2] Promiňte prosím, kde je hřbitov? _Pozn. red._
 </section>
