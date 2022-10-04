@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sichinger-smrt-krale-sumavy-0bc0a4c",
-  "revision": "0bc0a4c",
+  "identifier": "sichinger-smrt-krale-sumavy-887eb22",
+  "revision": "887eb22",
   "readingOrder": [
     "promo.html",
     "smrt_krale_sumavy_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:47:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909273072
+    "date": "Tue Oct 04 2022 23:04:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924697987
   },
   "documents": [
     {
