@@ -344,5 +344,9 @@ Byli jsme v nejnižším bodě údolí, na samém okraji Röhrnbachu. Po chodn�
 Paní se usmála, jako by jí místo, kde spí mrtví, přinášelo radost, a ukázala nahoru, k baňaté věži kostela.
 
 * * *
-[^1]: Potřebuju peníze. _Pozn. red._[^2] Promiňte prosím, kde je hřbitov? _Pozn. red._
+
+[^1]: Potřebuju peníze. _Pozn. red._
+
+[^2]: Promiňte prosím, kde je hřbitov? _Pozn. red._
+
 </section>
