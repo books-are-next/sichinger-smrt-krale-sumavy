@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sichinger-smrt-krale-sumavy-899919a",
-  "revision": "899919a",
+  "identifier": "sichinger-smrt-krale-sumavy-1d76c17",
+  "revision": "1d76c17",
   "readingOrder": [
     "promo.html",
     "smrt_krale_sumavy_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:04:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640272334
+    "date": "Tue Oct 04 2022 16:52:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902365316
   },
   "documents": [
     {
@@ -396,9 +396,9 @@
     {
       "title": "KAPITOLA ŠESTNÁCTÁ Sobota 4. září",
       "file": "smrt_krale_sumavy_022.html",
-      "words": 2341,
-      "chars": 14080,
-      "ideas": 171,
+      "words": 2342,
+      "chars": 14075,
+      "ideas": 172,
       "role": "chapter",
       "order": 18,
       "prev": "smrt_krale_sumavy_021.html",
@@ -416,9 +416,9 @@
     {
       "title": "KAPITOLA SEDMNÁCTÁ Sobota 4. září",
       "file": "smrt_krale_sumavy_023.html",
-      "words": 1415,
-      "chars": 8606,
-      "ideas": 91,
+      "words": 1420,
+      "chars": 8581,
+      "ideas": 96,
       "role": "chapter",
       "order": 19,
       "prev": "smrt_krale_sumavy_022.html",
@@ -456,9 +456,9 @@
     {
       "title": "KAPITOLA DEVATENÁCTÁ Sobota 4. září",
       "file": "smrt_krale_sumavy_025.html",
-      "words": 2316,
-      "chars": 13374,
-      "ideas": 166,
+      "words": 2319,
+      "chars": 13353,
+      "ideas": 169,
       "role": "chapter",
       "order": 21,
       "prev": "smrt_krale_sumavy_024.html",
@@ -516,9 +516,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 138,
+      "words": 136,
       "chars": 902,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "smrt_krale_sumavy_027.html",
@@ -536,14 +536,14 @@
   ],
   "totals": {
     "all": {
-      "words": 45198,
-      "chars": 262505,
-      "ideas": 2851
+      "words": 45205,
+      "chars": 262454,
+      "ideas": 2858
     },
     "chapters": {
-      "words": 45054,
-      "chars": 261567,
-      "ideas": 2832
+      "words": 45063,
+      "chars": 261516,
+      "ideas": 2841
     }
   }
 }

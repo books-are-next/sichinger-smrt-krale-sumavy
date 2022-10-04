@@ -346,5 +346,13 @@ Myslí na mě?
 A k čemu mi to je?
 
 * * *
-[^9]: Ano, ano, peníze, samozřejmě! _Pozn. red._[^10] Chtěl by novou počítačovou hru. Vy máte dceru? _Pozn. red._[^11] To je přeci jen lepší než mít kluka. _Pozn. red._[^12] Ano, to věřím. _Pozn. red._
+
+[^9]: Ano, ano, peníze, samozřejmě! _Pozn. red._
+
+[^10]: Chtěl by novou počítačovou hru. Vy máte dceru? _Pozn. red._
+
+[^11]: To je přeci jen lepší než mít kluka. _Pozn. red._
+
+[^12]: Ano, to věřím. _Pozn. red._
+
 </section>

@@ -236,5 +236,17 @@ Potom mluvítko znovu zapraskalo. Ale tentokrát se ozval starší mužský hlas
 „Hledáte Kiliána Nowotného?“
 
 * * *
-[^3]: Zde odpočívají v pokoji. _Pozn. red._[^4] Promiňte, my jsme z Kaltenbachu na Šumavě. _Pozn. red._[^5] Hledáme rodinu Nowotných. _Pozn. red._[^6] Tam žije jeho dcera. _Pozn. red._[^7] Co si přejete? _Pozn. red._[^8] Dobrý den, my jsem z Kaltenbachu a hledáme někoho z rodiny Nowotných. _Pozn. red._
+
+[^3]: Zde odpočívají v pokoji. _Pozn. red._
+
+[^4]: Promiňte, my jsme z Kaltenbachu na Šumavě. _Pozn. red._
+
+[^5]: Hledáme rodinu Nowotných. _Pozn. red._
+
+[^6]: Tam žije jeho dcera. _Pozn. red._
+
+[^7]: Co si přejete? _Pozn. red._
+
+[^8]: Dobrý den, my jsem z Kaltenbachu a hledáme někoho z rodiny Nowotných. _Pozn. red._
+
 </section>
