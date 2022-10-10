@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "sichinger-smrt-krale-sumavy-e1bfdc9",
-  "revision": "e1bfdc9",
+  "identifier": "sichinger-smrt-krale-sumavy-5f75912",
+  "revision": "5f75912",
   "readingOrder": [
     "promo.html",
     "smrt_krale_sumavy_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:52:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150757753
+    "date": "Mon Oct 10 2022 15:44:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416685824
   },
   "documents": [
     {
@@ -517,7 +517,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 136,
-      "chars": 902,
+      "chars": 903,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -537,7 +537,7 @@
   "totals": {
     "all": {
       "words": 45205,
-      "chars": 262454,
+      "chars": 262455,
       "ideas": 2858
     },
     "chapters": {
